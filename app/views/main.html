@@ -1,0 +1,33 @@
+<div class="container">
+  <h1>Class: {{dataSet.SoulTree._calling}}</h1>
+  <h2>Soul: {{dataSet.SoulTree._name}}</h2>
+
+  <h3>Abilities</h3>
+  <ul>
+    <li ng-repeat="ability in abilities">  
+         Ability Name - {{ability.Name}}</br>
+         Minimum Points In Soul - {{ability.MinimumPointsInSoul}}</br>
+         Trait Required - {{ability.TraitRequired}}</br>
+       </br>
+    </li>
+  </ul>
+
+  <h3>Traits</h3>
+  <ul>
+    <li ng-repeat="trait in traits">
+        Trait Name - {{trait.Name}}</br>
+        Minimum Points Spent - {{trait.MinimumPointsSpent}}</br>
+       </br>
+
+        <ul>
+           <li ng-repeat="rank in trait.Ranks.Rank">
+              Points - {{rank.Points}}</br>
+              Description - {{rank.Description}}</br>
+           </br>
+           </li>
+        </ul>
+    </li>
+  </ul>
+</div>
+
+

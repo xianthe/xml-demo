@@ -1,0 +1,2628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SoulTree calling="Cleric" name="Inquisitor">
+  <Traits>
+    <Trait>
+      <Key>0</Key>
+      <Name>Pursuit of Truth</Name>
+      <Icon>vengeful_justice_01</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>0</MinimumPointsSpent>
+      <DisplayRow>0</DisplayRow>
+      <DisplayColumn>0</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-9680215</AbilityId>
+          <Description></Description>
+          <AddonId>AFF6C4AA95159ABF0</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="2">
+        <Rank>
+          <Points>1</Points>
+          <Description>Reduces pushback when damaged while casting damaging spells by 50%. Increases the range of damaging spells by 2.5m.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Reduces pushback when damaged while casting damaging spells by 100%. Increases the range of damaging spells by 5m.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>1</Key>
+      <Name>Castigation</Name>
+      <Icon>spiritblast4bc</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>0</MinimumPointsSpent>
+      <DisplayRow>0</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>754538923</AbilityId>
+          <Description></Description>
+          <AddonId>A2CF959AB72D52DAF</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="5">
+        <Rank>
+          <Points>1</Points>
+          <Description>Reduces the cast time and mana cost of your Bolt of Judgment and Bolt of Retribution by 5%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Reduces the cast time and mana cost of your Bolt of Judgment and Bolt of Retribution by 10%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Reduces the cast time and mana cost of your Bolt of Judgment and Bolt of Retribution by 15%.</Description>
+        </Rank>
+        <Rank>
+          <Points>4</Points>
+          <Description>Reduces the cast time and mana cost of your Bolt of Judgment and Bolt of Retribution by 20%.</Description>
+        </Rank>
+        <Rank>
+          <Points>5</Points>
+          <Description>Reduces the cast time and mana cost of your Bolt of Judgment and Bolt of Retribution by 25%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>2</Key>
+      <Name>Planar Study</Name>
+      <Icon>generic_ability_027_a</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>0</MinimumPointsSpent>
+      <DisplayRow>0</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-96916751</AbilityId>
+          <Description></Description>
+          <AddonId>AFA392AF109C27858</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="5">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your Spell Power by 2%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your Spell Power by 4%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases your Spell Power by 6%.</Description>
+        </Rank>
+        <Rank>
+          <Points>4</Points>
+          <Description>Increases your Spell Power by 8%.</Description>
+        </Rank>
+        <Rank>
+          <Points>5</Points>
+          <Description>Increases your Spell Power by 10%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>3</Key>
+      <Name>Concentration</Name>
+      <Icon>discombobulate2a</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>5</MinimumPointsSpent>
+      <DisplayRow>1</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-57604493</AbilityId>
+          <Description></Description>
+          <AddonId>AFC910673639B14D9</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases the effect of Spell Power on your Bolt of Judgment, Bolt of Retribution, and Nysyr&apos;s Rebuke by 3%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases the effect of Spell Power on your Bolt of Judgment, Bolt of Retribution, and Nysyr&apos;s Rebuke by 6%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases the effect of Spell Power on your Bolt of Judgment, Bolt of Retribution, and Nysyr&apos;s Rebuke by 9%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>4</Key>
+      <Name>Corporal Punishment</Name>
+      <Icon>holysweep3</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>5</MinimumPointsSpent>
+      <DisplayRow>1</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>246217350</AbilityId>
+          <Description></Description>
+          <AddonId>A0EACFA8669D139FC</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="5">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your damage done by 1%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your damage done by 2%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases your damage done by 3%.</Description>
+        </Rank>
+        <Rank>
+          <Points>4</Points>
+          <Description>Increases your damage done by 4%.</Description>
+        </Rank>
+        <Rank>
+          <Points>5</Points>
+          <Description>Increases your damage done by 5%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>5</Key>
+      <Name>Armor of Treachery</Name>
+      <Icon>castigation1b</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>5</MinimumPointsSpent>
+      <DisplayRow>1</DisplayRow>
+      <DisplayColumn>3</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>953259656</AbilityId>
+          <Description>Increases Armor by 3% and Endurance by 3%. Lasts 1h.</Description>
+          <AddonId>A38D19688C31286ED</AddonId>
+          <IsPassive>False</IsPassive>
+          <CostManaPercent>4.500000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+          <Duration>3600.000000</Duration>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>6</Key>
+      <Name>Shroud of Agony</Name>
+      <Icon>riftstalker_great_fortitude_01_a</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>10</MinimumPointsSpent>
+      <DisplayRow>2</DisplayRow>
+      <DisplayColumn>0</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>1981413061</AbilityId>
+          <Description>Grants a 20% chance when hit to deal 55 Death damage to up to 10 nearby enemies over 6s. Lasts 1h.</Description>
+          <AddonId>A7619F6C5BC624EF1</AddonId>
+          <IsPassive>False</IsPassive>
+          <CostManaPercent>9.000000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>7</Key>
+      <Name>Agent of Affliction</Name>
+      <Icon>weakening_essence_01</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>10</MinimumPointsSpent>
+      <DisplayRow>2</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-10471611</AbilityId>
+          <Description></Description>
+          <AddonId>AFF60374514127736</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="5">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your damage done using delayed and damage over time abilities by 2%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your damage done using delayed and damage over time abilities by 4%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases your damage done using delayed and damage over time abilities by 6%.</Description>
+        </Rank>
+        <Rank>
+          <Points>4</Points>
+          <Description>Increases your damage done using delayed and damage over time abilities by 8%.</Description>
+        </Rank>
+        <Rank>
+          <Points>5</Points>
+          <Description>Increases your damage done using delayed and damage over time abilities by 10%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>8</Key>
+      <Name>Contempt</Name>
+      <Icon>flash2</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>10</MinimumPointsSpent>
+      <DisplayRow>2</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+      </Abilities>
+      <Ranks count="2">
+        <Rank>
+          <Points>1</Points>
+          <Description>Your Vex and Scourge restore health equal to 3% of your Maximum Health over their duration.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Your Vex and Scourge restore health equal to 6% of your Maximum Health over their duration.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>9</Key>
+      <Name>Life and Death Concord</Name>
+      <Icon>life_and_death_concord_b</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>15</MinimumPointsSpent>
+      <DisplayRow>3</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>1166409381</AbilityId>
+          <Description></Description>
+          <AddonId>A4585FEA5274C5091</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Your damaging Life spells (including each tick of Nysyr&apos;s Rebuke) reduce the cast time of your next Bolt of Depravity by 0.1s, as well as reducing its mana cost by 3%. Max 5 stacks.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Your damaging Life spells (including each tick of Nysyr&apos;s Rebuke) reduce the cast time of your next Bolt of Depravity by 0.2s, as well as reducing its mana cost by 6%. Max 5 stacks.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Your damaging Life spells (including each tick of Nysyr&apos;s Rebuke) reduce the cast time of your next Bolt of Depravity by 0.3s, as well as reducing its mana cost by 10%. Max 5 stacks.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>10</Key>
+      <Name>Excommunicate</Name>
+      <Icon>excommunicate</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>15</MinimumPointsSpent>
+      <DisplayRow>3</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>645208073</AbilityId>
+          <Description>Knocks the enemy back.</Description>
+          <AddonId>A267518092DE86E48</AddonId>
+          <IsPassive>False</IsPassive>
+          <Cooldown>30.000002</Cooldown>
+          <MaxRange>20.000000</MaxRange>
+          <CostManaPercent>4.500000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>11</Key>
+      <Name>Clinging Spirit</Name>
+      <Icon>shroud_of_agony</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>15</MinimumPointsSpent>
+      <DisplayRow>3</DisplayRow>
+      <DisplayColumn>3</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>1204606196</AbilityId>
+          <Description></Description>
+          <AddonId>A47CCD4F400D4FD09</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="2">
+        <Rank>
+          <Points>1</Points>
+          <Description>Your Bolt of Depravity and Soul Drain increase non-Physical damage taken by 2.5% for 30s.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Your Bolt of Depravity and Soul Drain increase non-Physical damage taken by 5% for 30s.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>12</Key>
+      <Name>Diligence</Name>
+      <Icon>smite1a</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>20</MinimumPointsSpent>
+      <DisplayRow>4</DisplayRow>
+      <DisplayColumn>0</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-13050298</AbilityId>
+          <Description></Description>
+          <AddonId>AFF38DE4635328515</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your single target damage done by 3%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your single target damage done by 6%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases your single target damage done by 9%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>13</Key>
+      <Name>Approbation</Name>
+      <Icon>sanction_heretic_a</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>20</MinimumPointsSpent>
+      <DisplayRow>4</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-40944195</AbilityId>
+          <Description></Description>
+          <AddonId>AFD8F3DBD5A3A92E5</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="2">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your chance to Critically Hit with damage over time abilities by 5%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your chance to Critically Hit with damage over time abilities by 10%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>14</Key>
+      <Name>Perseverance</Name>
+      <Icon>perseverance</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>20</MinimumPointsSpent>
+      <DisplayRow>4</DisplayRow>
+      <DisplayColumn>3</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>1425827168</AbilityId>
+          <Description>Grants immunity to the next Fear. Lasts 2m.</Description>
+          <AddonId>A54FC656090AC65DF</AddonId>
+          <IsPassive>False</IsPassive>
+          <Cooldown>120.000008</Cooldown>
+          <MaxRange>30.000000</MaxRange>
+          <CostManaPercent>4.500000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+          <Duration>120.000000</Duration>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>15</Key>
+      <Name>Mental Resilience</Name>
+      <Icon>holystrength2</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>25</MinimumPointsSpent>
+      <DisplayRow>5</DisplayRow>
+      <DisplayColumn>0</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>1325849728</AbilityId>
+          <Description></Description>
+          <AddonId>A4F06DC805860F8F7</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases the effect of Spell Power on your Vex, Scourge, and Sanction Heretic by 15%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases the effect of Spell Power on your Vex, Scourge, and Sanction Heretic by 30%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases the effect of Spell Power on your Vex, Scourge, and Sanction Heretic by 45%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>16</Key>
+      <Name>Unified Theory</Name>
+      <Icon>life_and_death_concord_a</Icon>
+      <PrereqTraitKey>9</PrereqTraitKey>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>25</MinimumPointsSpent>
+      <DisplayRow>5</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-83886038</AbilityId>
+          <Description></Description>
+          <AddonId>AFB00002A25CB5DBB</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description>When Life and Death Concord reaches 5 stacks, your next Bolt of Depravity can be cast instantly. Reduces the Global Cooldown of Bolt of Depravity to 1 second. After consuming Unified Theory, your next 2 Bolts of Judgment or Bolts of Retribution have their casting times reduced by 0.5 seconds.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>17</Key>
+      <Name>Fanaticism</Name>
+      <Icon>fanaticism</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>25</MinimumPointsSpent>
+      <DisplayRow>5</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>641965739</AbilityId>
+          <Description>Forces the next damaging Life or Death spell to Critically Hit. Lasts 30s.</Description>
+          <AddonId>A26439EAB4F2FA65D</AddonId>
+          <IsPassive>False</IsPassive>
+          <Cooldown>45.000004</Cooldown>
+          <CostManaPercent>4.500000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>18</Key>
+      <Name>Determination</Name>
+      <Icon>determination1</Icon>
+      <PrereqTraitKey>14</PrereqTraitKey>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>25</MinimumPointsSpent>
+      <DisplayRow>5</DisplayRow>
+      <DisplayColumn>3</DisplayColumn>
+      <Abilities>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description>The immunity granted by your Perseverance now covers all control effects.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>19</Key>
+      <Name>Circle of Oblivion</Name>
+      <Icon>exorcize2</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>30</MinimumPointsSpent>
+      <DisplayRow>6</DisplayRow>
+      <DisplayColumn>0</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>475452316</AbilityId>
+          <Description>Deals 524 Death damage over 7s to up to 5 enemies in the target area.</Description>
+          <AddonId>A1C56D39C8AEB775F</AddonId>
+          <IsPassive>False</IsPassive>
+          <MaxRange>30.000000</MaxRange>
+          <CostManaPercent>18.000000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+          <Channel>true</Channel>
+          <Duration>7.000000</Duration>
+          <Interval>1.000000</Interval>
+          <Radius>7.000000</Radius>
+          <MaxAffected>5</MaxAffected>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>20</Key>
+      <Name>Righteous Indignation</Name>
+      <Icon>doctrine_of_faithful_01</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>30</MinimumPointsSpent>
+      <DisplayRow>6</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-92649684</AbilityId>
+          <Description></Description>
+          <AddonId>AFA7A472C20FFD9E6</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases the effect of Spell Power on your Bolt of Judgment, Bolt of Depravity, and Bolt of Retribution by 5%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases the effect of Spell Power on your Bolt of Judgment, Bolt of Depravity, and Bolt of Retribution by 10%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases the effect of Spell Power on your Bolt of Judgment, Bolt of Depravity, and Bolt of Retribution by 15%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>21</Key>
+      <Name>Symbol of Corruption</Name>
+      <Icon>spiritblast4b</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>30</MinimumPointsSpent>
+      <DisplayRow>6</DisplayRow>
+      <DisplayColumn>3</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-80719783</AbilityId>
+          <Description></Description>
+          <AddonId>AFB30505934F7C160</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Your Bolt of Depravity deals an additional 15% of its damage over 4s.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Your Bolt of Depravity deals an additional 30% of its damage over 4s.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Your Bolt of Depravity deals an additional 45% of its damage over 4s.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>22</Key>
+      <Name>Armor of Awakening</Name>
+      <Icon>castigation3</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>35</MinimumPointsSpent>
+      <DisplayRow>7</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>1858105709</AbilityId>
+          <Description>Increases damage done by 10% and Critical Hit chance with damaging abilities by 5%. Lasts 1h.</Description>
+          <AddonId>A6EC0716DB0D1A70C</AddonId>
+          <IsPassive>False</IsPassive>
+          <CostManaPercent>4.500000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+          <Duration>3600.000000</Duration>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>23</Key>
+      <Name>Zealotry</Name>
+      <Icon>smite5</Icon>
+      <PrereqTraitKey>17</PrereqTraitKey>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>35</MinimumPointsSpent>
+      <DisplayRow>7</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Your Fanaticism adds 1 stack of Fanatic&apos;s Faith, increasing your Critical Hit chance with damaging Life or Death spells by 10% per stack. Each Critical Hit with a damaging spell reduces the stack by 1.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Your Fanaticism adds 2 stacks of Fanatic&apos;s Faith, increasing your Critical Hit chance with damaging Life or Death spells by 10% per stack. Each Critical Hit with a damaging spell reduces the stack by 1.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Your Fanaticism adds 3 stacks of Fanatic&apos;s Faith, increasing your Critical Hit chance with damaging Life or Death spells by 10% per stack. Each Critical Hit with a damaging spell reduces the stack by 1.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>24</Key>
+      <Name>Cunning Analysis</Name>
+      <Icon>energybolt3</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>35</MinimumPointsSpent>
+      <DisplayRow>7</DisplayRow>
+      <DisplayColumn>3</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-65956020</AbilityId>
+          <Description></Description>
+          <AddonId>AFC11974C6050B424</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="2">
+        <Rank>
+          <Points>1</Points>
+          <Description>Your single target spells ignore 15% of the target&apos;s Resistance.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Your single target spells ignore 30% of the target&apos;s Resistance.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>25</Key>
+      <Name>Bolt of Retribution</Name>
+      <Icon>binding_of_authority_01</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>40</MinimumPointsSpent>
+      <DisplayRow>8</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-43234639</AbilityId>
+          <Description>Deals 266 to 294 Life damage.</Description>
+          <AddonId>AFD6C4AB1AD30F43B</AddonId>
+          <IsPassive>False</IsPassive>
+          <MaxRange>30.000000</MaxRange>
+          <CostManaPercent>9.000000</CostManaPercent>
+          <CastTime>2.000000</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+  </Traits>
+  <Abilities>
+    <Ability>
+      <MinimumPointsInSoul>24</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Righteous Deliberation</Name>
+      <Icon>shroudofpenitent2</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>24</RequiredLevel>
+        <AbilityId>-87497130</AbilityId>
+        <Description>Restores 5% mana each second over 10s.</Description>
+        <AddonId>AFAC8E6566CD621F7</AddonId>
+        <IsPassive>False</IsPassive>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>10.000000</Duration>
+        <Interval>1.000000</Interval>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>0</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Ritual of Judgment</Name>
+      <Icon>redirect4b</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>0</RequiredLevel>
+        <AbilityId>-83519199</AbilityId>
+        <Description></Description>
+        <AddonId>AFB0599211E99258A</AddonId>
+        <IsPassive>True</IsPassive>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>58</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Spiritual Scrutiny</Name>
+      <Icon>blindinglight1</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>57</RequiredLevel>
+        <AbilityId>-76030669</AbilityId>
+        <Description>Reduces the global cooldown of the Cleric&apos;s ranged damaging abilities by 0.5s, and their mana costs by 33%. Allows the Cleric&apos;s damaging abilities to ignore 20% of their targets&apos; Armor and Resistance. Reduces the cast time of Bolt of Judgment by 1.5s and its damage by 20%. Lasts 1h.</Description>
+        <AddonId>AFB77DD3356A44239</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>3600.000000</Duration>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>41</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Bolt of Retribution</Name>
+      <Icon>binding_of_authority_01</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>41</RequiredLevel>
+        <AbilityId>-43234639</AbilityId>
+        <Description>Deals 266 to 294 Life damage.</Description>
+        <AddonId>AFD6C4AB1AD30F43B</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>47</RequiredLevel>
+        <AbilityId>-64481945</AbilityId>
+        <Description>Deals 348 to 385 Life damage.</Description>
+        <AddonId>AFC2815675533FF51</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>51</RequiredLevel>
+        <AbilityId>-90715847</AbilityId>
+        <Description>Deals 413 to 456 Life damage.</Description>
+        <AddonId>AFA97C9398A8696AC</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>54</RequiredLevel>
+        <AbilityId>-255632</AbilityId>
+        <Description>Deals 700 to 773 Life damage.</Description>
+        <AddonId>AFFFC19707D3B7B9D</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>57</RequiredLevel>
+        <AbilityId>-94062035</AbilityId>
+        <Description>Deals 988 to 1093 Life damage.</Description>
+        <AddonId>AFA64BA2DC7E570D1</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>-35129644</AbilityId>
+        <Description>Deals 1119 to 1236 Life damage.</Description>
+        <AddonId>AFDE7F6D4B3A1A7D5</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>61</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Radical Coalescence</Name>
+      <Icon>healing_flare_a</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>-42581126</AbilityId>
+        <Description>Resets the cooldown on all Inquisitor abilities. Grants Unified Theory. Increases damage done by 10% for 15s.</Description>
+        <AddonId>AFD76437A962C0EA2</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>120.000008</Cooldown>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>54</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Scourge</Name>
+      <Icon>magnify_pain_01</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>53</RequiredLevel>
+        <AbilityId>-520878</AbilityId>
+        <Description>Deals 1386 Death damage over 15s.</Description>
+        <AddonId>AFFF80D521D397A97</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>3.750000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">3.600000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>56</RequiredLevel>
+        <AbilityId>-48333010</AbilityId>
+        <Description>Deals 2342 Death damage over 15s.</Description>
+        <AddonId>AFD1E7F2E66523071</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>3.750000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">3.600000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>59</RequiredLevel>
+        <AbilityId>-63475188</AbilityId>
+        <Description>Deals 2651 Death damage over 15s.</Description>
+        <AddonId>AFC37720C94E13CDB</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>3.750000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">3.600000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>20</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Soul Drain</Name>
+      <Icon>souldrain4</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>20</RequiredLevel>
+        <AbilityId>76</AbilityId>
+        <Description>Applies Soul Drain to up to 3 enemies near the targeted enemy. For each enemy hit, deals 123 to 137 Death damage to up to 4 enemies.</Description>
+        <AddonId>A0000004C6838FA21</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>12.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>3</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>26</RequiredLevel>
+        <AbilityId>429884316</AbilityId>
+        <Description>Applies Soul Drain to up to 3 enemies near the targeted enemy. For each enemy hit, deals 144 to 160 Death damage to up to 4 enemies.</Description>
+        <AddonId>A199F839C78EE680D</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>12.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>3</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>32</RequiredLevel>
+        <AbilityId>2068984501</AbilityId>
+        <Description>Applies Soul Drain to up to 3 enemies near the targeted enemy. For each enemy hit, deals 164 to 182 Death damage to up to 4 enemies.</Description>
+        <AddonId>A7B5232B55FD1D06F</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>12.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>3</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>38</RequiredLevel>
+        <AbilityId>509571113</AbilityId>
+        <Description>Applies Soul Drain to up to 3 enemies near the targeted enemy. For each enemy hit, deals 190 to 210 Death damage to up to 4 enemies.</Description>
+        <AddonId>A1E5F70292E665F11</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>12.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>3</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>44</RequiredLevel>
+        <AbilityId>42892466</AbilityId>
+        <Description>Applies Soul Drain to up to 3 enemies near the targeted enemy. For each enemy hit, deals 244 to 270 Death damage to up to 4 enemies.</Description>
+        <AddonId>A028E7CB23E2AEC86</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>12.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>3</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>50</RequiredLevel>
+        <AbilityId>2094233535</AbilityId>
+        <Description>Applies Soul Drain to up to 3 enemies near the targeted enemy. For each enemy hit, deals 275 to 303 Death damage to up to 4 enemies.</Description>
+        <AddonId>A7CD377BF0E1D2870</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>12.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>3</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>53</RequiredLevel>
+        <AbilityId>1805152594</AbilityId>
+        <Description>Applies Soul Drain to up to 3 enemies near the targeted enemy. For each enemy hit, deals 460 to 508 Death damage to up to 4 enemies.</Description>
+        <AddonId>A6B9871526F94DE1C</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>12.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>3</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>56</RequiredLevel>
+        <AbilityId>-87776049</AbilityId>
+        <Description>Applies Soul Drain to up to 3 enemies near the targeted enemy. For each enemy hit, deals 778 to 860 Death damage to up to 4 enemies.</Description>
+        <AddonId>AFAC4A4CF630A2540</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>12.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>3</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>59</RequiredLevel>
+        <AbilityId>-19604091</AbilityId>
+        <Description>Applies Soul Drain to up to 3 enemies near the targeted enemy. For each enemy hit, deals 881 to 973 Death damage to up to 4 enemies.</Description>
+        <AddonId>AFED4DD8599AE5EC6</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>12.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>3</MaxAffected>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>2</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Armor of Devotion</Name>
+      <Icon>castigation1c</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>2</RequiredLevel>
+        <AbilityId>28618866</AbilityId>
+        <Description>Increases Critical Hit chance with damaging abilities by 5%. Lasts 1h.</Description>
+        <AddonId>A01B4B0723E98E81B</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>3600.000000</Duration>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>0</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Bolt of Judgment</Name>
+      <Icon>spiritblast4bc</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>0</RequiredLevel>
+        <AbilityId>55494125</AbilityId>
+        <Description>Deals 57 to 62 Life damage.</Description>
+        <AddonId>A034EC5ED761024EA</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>10.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>4</RequiredLevel>
+        <AbilityId>1706289153</AbilityId>
+        <Description>Deals 70 to 77 Life damage.</Description>
+        <AddonId>A65B3E8015BD0E73A</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>10.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>8</RequiredLevel>
+        <AbilityId>701599635</AbilityId>
+        <Description>Deals 87 to 96 Life damage.</Description>
+        <AddonId>A29D18F935888FCD2</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>10.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>12</RequiredLevel>
+        <AbilityId>798069779</AbilityId>
+        <Description>Deals 107 to 118 Life damage.</Description>
+        <AddonId>A2F91941375FCDB0E</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>10.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>18</RequiredLevel>
+        <AbilityId>647996322</AbilityId>
+        <Description>Deals 124 to 137 Life damage.</Description>
+        <AddonId>A269FA3A234860FC4</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>10.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>24</RequiredLevel>
+        <AbilityId>1965440729</AbilityId>
+        <Description>Deals 144 to 159 Life damage.</Description>
+        <AddonId>A75263ED92AA0277C</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>10.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>30</RequiredLevel>
+        <AbilityId>666824439</AbilityId>
+        <Description>Deals 163 to 180 Life damage.</Description>
+        <AddonId>A27BEEEF728194E9C</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>10.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>36</RequiredLevel>
+        <AbilityId>1742751582</AbilityId>
+        <Description>Deals 190 to 211 Life damage.</Description>
+        <AddonId>A67E0475E50C92631</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>10.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>42</RequiredLevel>
+        <AbilityId>2141263430</AbilityId>
+        <Description>Deals 228 to 253 Life damage.</Description>
+        <AddonId>A7FA116469386B0F5</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>10.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>48</RequiredLevel>
+        <AbilityId>1028615457</AbilityId>
+        <Description>Deals 290 to 321 Life damage.</Description>
+        <AddonId>A3D4F6D2179A1706F</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>10.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>11</Number>
+        <RequiredLevel>51</RequiredLevel>
+        <AbilityId>-63955677</AbilityId>
+        <Description>Deals 344 to 381 Life damage.</Description>
+        <AddonId>AFC301D233F6DA8CB</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>10.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>12</Number>
+        <RequiredLevel>54</RequiredLevel>
+        <AbilityId>-85006411</AbilityId>
+        <Description>Deals 583 to 644 Life damage.</Description>
+        <AddonId>AFAEEE7B55DD0E33A</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>10.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>13</Number>
+        <RequiredLevel>57</RequiredLevel>
+        <AbilityId>-20033004</AbilityId>
+        <Description>Deals 823 to 910 Life damage.</Description>
+        <AddonId>AFECE5214D5D494A5</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>10.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>14</Number>
+        <RequiredLevel>58</RequiredLevel>
+        <AbilityId>-76846692</AbilityId>
+        <Description>Deals 932 to 1031 Life damage.</Description>
+        <AddonId>AFB6B699C479566A2</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>10.000000</CostManaPercent>
+        <CastTime>2.000000</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>16</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Harsh Discipline</Name>
+      <Icon>healthchannel1g</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>16</RequiredLevel>
+        <AbilityId>154245573</AbilityId>
+        <Description>Deals 302 Death damage over 3s, restoring 487 health to the Cleric over the same duration.</Description>
+        <AddonId>A093199C517E1A1E6</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">1.130000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+        <PowerStatCoefficient effect="1" action="0">1.130000</PowerStatCoefficient>
+        <AggroMultiplier effect="1" action="0">0.250000</AggroMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>22</RequiredLevel>
+        <AbilityId>652941303</AbilityId>
+        <Description>Deals 361 Death damage over 3s, restoring 557 health to the Cleric over the same duration.</Description>
+        <AddonId>A26EB17F7408ED2BF</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">1.130000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+        <PowerStatCoefficient effect="1" action="0">1.130000</PowerStatCoefficient>
+        <AggroMultiplier effect="1" action="0">0.250000</AggroMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>28</RequiredLevel>
+        <AbilityId>1694152839</AbilityId>
+        <Description>Deals 410 Death damage over 3s, restoring 658 health to the Cleric over the same duration.</Description>
+        <AddonId>A64FAB887192407F9</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">1.130000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+        <PowerStatCoefficient effect="1" action="0">1.130000</PowerStatCoefficient>
+        <AggroMultiplier effect="1" action="0">0.250000</AggroMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>34</RequiredLevel>
+        <AbilityId>139721597</AbilityId>
+        <Description>Deals 475 Death damage over 3s, restoring 700 health to the Cleric over the same duration.</Description>
+        <AddonId>A0853FB7D2CEDDDB2</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">1.130000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+        <PowerStatCoefficient effect="1" action="0">1.130000</PowerStatCoefficient>
+        <AggroMultiplier effect="1" action="0">0.250000</AggroMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>40</RequiredLevel>
+        <AbilityId>1757208854</AbilityId>
+        <Description>Deals 543 Death damage over 3s, restoring 730 health to the Cleric over the same duration.</Description>
+        <AddonId>A68BCE11626389F7D</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">1.130000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+        <PowerStatCoefficient effect="1" action="0">1.130000</PowerStatCoefficient>
+        <AggroMultiplier effect="1" action="0">0.250000</AggroMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>46</RequiredLevel>
+        <AbilityId>533169208</AbilityId>
+        <Description>Deals 765 Death damage over 3s, restoring 849 health to the Cleric over the same duration.</Description>
+        <AddonId>A1FC784385B6B9E90</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">1.130000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+        <PowerStatCoefficient effect="1" action="0">1.130000</PowerStatCoefficient>
+        <AggroMultiplier effect="1" action="0">0.250000</AggroMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>51</RequiredLevel>
+        <AbilityId>-68046639</AbilityId>
+        <Description>Deals 908 Death damage over 3s, restoring 879 health to the Cleric over the same duration.</Description>
+        <AddonId>AFBF1B0D1760259F3</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">1.130000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+        <PowerStatCoefficient effect="1" action="0">1.130000</PowerStatCoefficient>
+        <AggroMultiplier effect="1" action="0">0.250000</AggroMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>54</RequiredLevel>
+        <AbilityId>-76125307</AbilityId>
+        <Description>Deals 1544 Death damage over 3s, restoring 1018 health to the Cleric over the same duration.</Description>
+        <AddonId>AFB766B857094A151</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">1.130000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+        <PowerStatCoefficient effect="1" action="0">1.130000</PowerStatCoefficient>
+        <AggroMultiplier effect="1" action="0">0.250000</AggroMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>57</RequiredLevel>
+        <AbilityId>-42614981</AbilityId>
+        <Description>Deals 2185 Death damage over 3s, restoring 1089 health to the Cleric over the same duration.</Description>
+        <AddonId>AFD75BF3B6B47B27A</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">1.130000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+        <PowerStatCoefficient effect="1" action="0">1.130000</PowerStatCoefficient>
+        <AggroMultiplier effect="1" action="0">0.250000</AggroMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>-65452973</AbilityId>
+        <Description>Deals 2475 Death damage over 3s, restoring 1096 health to the Cleric over the same duration.</Description>
+        <AddonId>AFC1944536B293D99</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">1.130000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+        <PowerStatCoefficient effect="1" action="0">1.130000</PowerStatCoefficient>
+        <AggroMultiplier effect="1" action="0">0.250000</AggroMultiplier>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>48</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Bewilder</Name>
+      <Icon>confound2</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>48</RequiredLevel>
+        <AbilityId>179474180</AbilityId>
+        <Description>Confuses for 3s. Can only affect 1 enemy.</Description>
+        <AddonId>A0AB28F04A29ADDCB</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>3.000000</Duration>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>51</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Nysyr&apos;s Rebuke</Name>
+      <Icon>nysyrs_rebuke</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>50</RequiredLevel>
+        <AbilityId>206273970</AbilityId>
+        <Description>Deals 2451 Life damage over 3s.</Description>
+        <AddonId>A0C4B7DB240F1A970</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>60.000004</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">3.600000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>53</RequiredLevel>
+        <AbilityId>-90871048</AbilityId>
+        <Description>Deals 4130 Life damage over 3s.</Description>
+        <AddonId>AFA956AF88509B335</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>60.000004</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">3.600000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>56</RequiredLevel>
+        <AbilityId>-73388306</AbilityId>
+        <Description>Deals 6999 Life damage over 3s.</Description>
+        <AddonId>AFBA02EEE7B649897</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>60.000004</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">3.600000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>59</RequiredLevel>
+        <AbilityId>-84332729</AbilityId>
+        <Description>Deals 7926 Life damage over 3s.</Description>
+        <AddonId>AFAF92F47693F80D5</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>60.000004</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">3.600000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>31</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Circle of Oblivion</Name>
+      <Icon>exorcize2</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>31</RequiredLevel>
+        <AbilityId>475452316</AbilityId>
+        <Description>Deals 524 Death damage over 7s to up to 5 enemies in the target area.</Description>
+        <AddonId>A1C56D39C8AEB775F</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>18.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>7.000000</Duration>
+        <Interval>1.000000</Interval>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>37</RequiredLevel>
+        <AbilityId>814691786</AbilityId>
+        <Description>Deals 607 Death damage over 7s to up to 5 enemies in the target area.</Description>
+        <AddonId>A308F35CAEDFC3F2E</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>18.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>7.000000</Duration>
+        <Interval>1.000000</Interval>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>43</RequiredLevel>
+        <AbilityId>2139657013</AbilityId>
+        <Description>Deals 781 Death damage over 7s to up to 5 enemies in the target area.</Description>
+        <AddonId>A7F889335A13303D7</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>18.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>7.000000</Duration>
+        <Interval>1.000000</Interval>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>49</RequiredLevel>
+        <AbilityId>1593266057</AbilityId>
+        <Description>Deals 902 Death damage over 7s to up to 5 enemies in the target area.</Description>
+        <AddonId>A5EF74F89752A267B</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>18.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>7.000000</Duration>
+        <Interval>1.000000</Interval>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>52</RequiredLevel>
+        <AbilityId>-35465803</AbilityId>
+        <Description>Deals 1249 Death damage over 7s to up to 5 enemies in the target area.</Description>
+        <AddonId>AFDE2D5B577B76F79</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>18.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>7.000000</Duration>
+        <Interval>1.000000</Interval>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>55</RequiredLevel>
+        <AbilityId>-97402728</AbilityId>
+        <Description>Deals 2169 Death damage over 7s to up to 5 enemies in the target area.</Description>
+        <AddonId>AFA31C09884096BDE</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>18.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>7.000000</Duration>
+        <Interval>1.000000</Interval>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>58</RequiredLevel>
+        <AbilityId>-61079443</AbilityId>
+        <Description>Deals 2909 Death damage over 7s to up to 5 enemies in the target area.</Description>
+        <AddonId>AFC5C006D774846D8</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>18.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Channel>true</Channel>
+        <Duration>7.000000</Duration>
+        <Interval>1.000000</Interval>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>36</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Judicial Privilege</Name>
+      <Icon>doctrine_of_virtue_01</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>36</RequiredLevel>
+        <AbilityId>586172645</AbilityId>
+        <Description>Adds 5 stacks of Judicial Privilege. Each stack adds 10% movement speed. When hit, removes 1 stack and restores 10% health. Lasts 20s.</Description>
+        <AddonId>A22F048E5862FB1C5</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>60.000004</Cooldown>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>26</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Fanaticism</Name>
+      <Icon>fanaticism</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>26</RequiredLevel>
+        <AbilityId>641965739</AbilityId>
+        <Description>Forces the next damaging Life or Death spell to Critically Hit. Lasts 30s.</Description>
+        <AddonId>A26439EAB4F2FA65D</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>45.000004</Cooldown>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>16</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Excommunicate</Name>
+      <Icon>excommunicate</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>16</RequiredLevel>
+        <AbilityId>645208073</AbilityId>
+        <Description>Knocks the enemy back.</Description>
+        <AddonId>A267518092DE86E48</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <MaxRange>20.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>6</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Armor of Treachery</Name>
+      <Icon>castigation1b</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>6</RequiredLevel>
+        <AbilityId>953259656</AbilityId>
+        <Description>Increases Armor by 3% and Endurance by 3%. Lasts 1h.</Description>
+        <AddonId>A38D19688C31286ED</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>3600.000000</Duration>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>4</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Bolt of Depravity</Name>
+      <Icon>spiritblast4b</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>4</RequiredLevel>
+        <AbilityId>1244719305</AbilityId>
+        <Description>Deals 105 to 116 Death damage.</Description>
+        <AddonId>A4A30E8C9E6A43F85</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>3.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>8</RequiredLevel>
+        <AbilityId>1890422132</AbilityId>
+        <Description>Deals 130 to 143 Death damage.</Description>
+        <AddonId>A70AD8D74E2B070E4</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>3.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>12</RequiredLevel>
+        <AbilityId>1074156574</AbilityId>
+        <Description>Deals 161 to 178 Death damage.</Description>
+        <AddonId>A4006541EA862EDCF</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>3.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>16</RequiredLevel>
+        <AbilityId>649136676</AbilityId>
+        <Description>Deals 174 to 193 Death damage.</Description>
+        <AddonId>A26B10A24909D8CD0</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>3.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>22</RequiredLevel>
+        <AbilityId>1412092632</AbilityId>
+        <Description>Deals 209 to 230 Death damage.</Description>
+        <AddonId>A542AD2D8E506DBA3</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>3.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>28</RequiredLevel>
+        <AbilityId>2092748815</AbilityId>
+        <Description>Deals 236 to 261 Death damage.</Description>
+        <AddonId>A7CBCD00F6E5EA06F</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>3.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>34</RequiredLevel>
+        <AbilityId>1784985163</AbilityId>
+        <Description>Deals 272 to 301 Death damage.</Description>
+        <AddonId>A6A64B64B986A523E</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>3.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>40</RequiredLevel>
+        <AbilityId>1245616399</AbilityId>
+        <Description>Deals 310 to 343 Death damage.</Description>
+        <AddonId>A4A3E990F6BA1CC51</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>3.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>46</RequiredLevel>
+        <AbilityId>276913072</AbilityId>
+        <Description>Deals 436 to 481 Death damage.</Description>
+        <AddonId>A10815BB0A321CD97</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>3.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>51</RequiredLevel>
+        <AbilityId>-68943143</AbilityId>
+        <Description>Deals 516 to 571 Death damage.</Description>
+        <AddonId>AFBE402D9BC6B9A9F</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>3.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>11</Number>
+        <RequiredLevel>54</RequiredLevel>
+        <AbilityId>-29141172</AbilityId>
+        <Description>Deals 874 to 967 Death damage.</Description>
+        <AddonId>AFE43574C80A0D886</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>3.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>12</Number>
+        <RequiredLevel>57</RequiredLevel>
+        <AbilityId>-41257640</AbilityId>
+        <Description>Deals 1235 to 1366 Death damage.</Description>
+        <AddonId>AFD8A7558978B462A</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>3.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>13</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>-1153305</AbilityId>
+        <Description>Deals 1399 to 1546 Death damage.</Description>
+        <AddonId>AFFEE66E796C84621</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>15.000000</CostManaPercent>
+        <CastTime>3.000000</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>21</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Perseverance</Name>
+      <Icon>perseverance</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>21</RequiredLevel>
+        <AbilityId>1425827168</AbilityId>
+        <Description>Grants immunity to the next Fear. Lasts 2m.</Description>
+        <AddonId>A54FC656090AC65DF</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>120.000008</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>120.000000</Duration>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>24</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Spiritual Deficiency</Name>
+      <Icon>menacingroar4b</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>24</RequiredLevel>
+        <AbilityId>1595568812</AbilityId>
+        <Description>Increases non-Physical damage taken by 7%. Lasts 60s.</Description>
+        <AddonId>A5F1A72ACC7048763</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>60.000000</Duration>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>8</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Sanction Heretic</Name>
+      <Icon>sanction_heretic_a</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>8</RequiredLevel>
+        <AbilityId>1640453314</AbilityId>
+        <Description>Deals 65 to 71 Life damage. Applies Sanction, dealing an additional 68 Life damage over 15s.</Description>
+        <AddonId>A61C754C210696BF7</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>14</RequiredLevel>
+        <AbilityId>681456510</AbilityId>
+        <Description>Deals 85 to 95 Life damage. Applies Sanction, dealing an additional 90 Life damage over 15s.</Description>
+        <AddonId>A289E337E7DF108CC</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>20</RequiredLevel>
+        <AbilityId>732418865</AbilityId>
+        <Description>Deals 98 to 108 Life damage. Applies Sanction, dealing an additional 103 Life damage over 15s.</Description>
+        <AddonId>A2BA7D33182E4BA79</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>26</RequiredLevel>
+        <AbilityId>931001547</AbilityId>
+        <Description>Deals 114 to 126 Life damage. Applies Sanction, dealing an additional 120 Life damage over 15s.</Description>
+        <AddonId>A377DF4CB201C4361</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>32</RequiredLevel>
+        <AbilityId>339558403</AbilityId>
+        <Description>Deals 130 to 144 Life damage. Applies Sanction, dealing an additional 137 Life damage over 15s.</Description>
+        <AddonId>A143D40031A2E49DA</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>38</RequiredLevel>
+        <AbilityId>2060182785</AbilityId>
+        <Description>Deals 151 to 167 Life damage. Applies Sanction, dealing an additional 159 Life damage over 15s.</Description>
+        <AddonId>A7ACBE501428F4DDF</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>44</RequiredLevel>
+        <AbilityId>1952650652</AbilityId>
+        <Description>Deals 194 to 214 Life damage. Applies Sanction, dealing an additional 204 Life damage over 15s.</Description>
+        <AddonId>A7463159C514FC980</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>50</RequiredLevel>
+        <AbilityId>353119228</AbilityId>
+        <Description>Deals 218 to 240 Life damage. Applies Sanction, dealing an additional 229 Life damage over 15s.</Description>
+        <AddonId>A150C2BFC2320EA4C</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>53</RequiredLevel>
+        <AbilityId>1661065493</AbilityId>
+        <Description>Deals 365 to 403 Life damage. Applies Sanction, dealing an additional 384 Life damage over 15s.</Description>
+        <AddonId>A6301D9156A0397DC</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>56</RequiredLevel>
+        <AbilityId>449813826</AbilityId>
+        <Description>Deals 617 to 683 Life damage. Applies Sanction, dealing an additional 650 Life damage over 15s.</Description>
+        <AddonId>A1ACF9D422B8685D4</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>11</Number>
+        <RequiredLevel>59</RequiredLevel>
+        <AbilityId>-82364145</AbilityId>
+        <Description>Deals 699 to 773 Life damage. Applies Sanction, dealing an additional 736 Life damage over 15s.</Description>
+        <AddonId>AFB17390FD05333BB</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>32</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Trepidation</Name>
+      <Icon>confound1</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>32</RequiredLevel>
+        <AbilityId>1735321389</AbilityId>
+        <Description>Fears nearby enemies for 8s or until damaged.</Description>
+        <AddonId>A676EE72DCC5F20EE</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>60.000004</Cooldown>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>50</MaxAffected>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>0</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Vex</Name>
+      <Icon>vex</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>0</RequiredLevel>
+        <AbilityId>1752828629</AbilityId>
+        <Description>Deals 98 Death damage over 15s.</Description>
+        <AddonId>A687A0AD59D162FA5</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>3.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">2.200000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>4</RequiredLevel>
+        <AbilityId>1975036213</AbilityId>
+        <Description>Deals 121 Death damage over 15s.</Description>
+        <AddonId>A75B8A9357E07C34B</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>3.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">2.200000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>8</RequiredLevel>
+        <AbilityId>2075579428</AbilityId>
+        <Description>Deals 151 Death damage over 15s.</Description>
+        <AddonId>A7BB6D42489576D2B</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>3.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">2.200000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>12</RequiredLevel>
+        <AbilityId>446144274</AbilityId>
+        <Description>Deals 186 Death damage over 15s.</Description>
+        <AddonId>A1A979F12C1399370</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>3.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">2.200000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>18</RequiredLevel>
+        <AbilityId>1096940973</AbilityId>
+        <Description>Deals 215 Death damage over 15s.</Description>
+        <AddonId>A4161FDAD80A0A730</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>3.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">2.200000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>24</RequiredLevel>
+        <AbilityId>208862166</AbilityId>
+        <Description>Deals 250 Death damage over 15s.</Description>
+        <AddonId>A0C72FBD676E0762E</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>3.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">2.200000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>30</RequiredLevel>
+        <AbilityId>1501036088</AbilityId>
+        <Description>Deals 283 Death damage over 15s.</Description>
+        <AddonId>A5977FE38CAF0E06B</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>3.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">2.200000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>36</RequiredLevel>
+        <AbilityId>2049632770</AbilityId>
+        <Description>Deals 330 Death damage over 15s.</Description>
+        <AddonId>A7A2AEA029AAC49BA</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>3.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">2.200000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>42</RequiredLevel>
+        <AbilityId>268056557</AbilityId>
+        <Description>Deals 397 Death damage over 15s.</Description>
+        <AddonId>A0FFA37ED913E9AFC</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>3.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">2.200000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>48</RequiredLevel>
+        <AbilityId>167933921</AbilityId>
+        <Description>Deals 504 Death damage over 15s.</Description>
+        <AddonId>A0A0277E199184720</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>3.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">2.200000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>11</Number>
+        <RequiredLevel>51</RequiredLevel>
+        <AbilityId>-52726721</AbilityId>
+        <Description>Deals 598 Death damage over 15s.</Description>
+        <AddonId>AFCDB743F6D93C436</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>3.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">2.200000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>12</Number>
+        <RequiredLevel>54</RequiredLevel>
+        <AbilityId>-83466486</AbilityId>
+        <Description>Deals 1012 Death damage over 15s.</Description>
+        <AddonId>AFB06670A31079E48</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>3.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">2.200000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>13</Number>
+        <RequiredLevel>57</RequiredLevel>
+        <AbilityId>-57574984</AbilityId>
+        <Description>Deals 1431 Death damage over 15s.</Description>
+        <AddonId>AFC9179B8DF88D56C</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>3.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">2.200000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>14</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>-40958797</AbilityId>
+        <Description>Deals 1620 Death damage over 15s.</Description>
+        <AddonId>AFD8F04B379CD7379</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>3.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">2.200000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>28</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Spiritual Protection</Name>
+      <Icon>magicward1</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>28</RequiredLevel>
+        <AbilityId>1855908458</AbilityId>
+        <Description>Increases all Resistances by 27 on all party or raid members.</Description>
+        <AddonId>A6E9EEA6A63F692DC</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>38</RequiredLevel>
+        <AbilityId>-49572865</AbilityId>
+        <Description>Increases all Resistances by 32 on all party or raid members.</Description>
+        <AddonId>AFD0B93FFA660B58C</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>48</RequiredLevel>
+        <AbilityId>-8344015</AbilityId>
+        <Description>Increases all Resistances by 40 on all party or raid members.</Description>
+        <AddonId>AFF80AE31D768BD3F</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>53</RequiredLevel>
+        <AbilityId>-75717635</AbilityId>
+        <Description>Increases all Resistances by 50 on all party or raid members.</Description>
+        <AddonId>AFB7CA3FD9B1118EA</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>-39226511</AbilityId>
+        <Description>Increases all Resistances by 65 on all party or raid members.</Description>
+        <AddonId>AFDA973715905AF44</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>36</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Armor of Awakening</Name>
+      <Icon>castigation3</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>36</RequiredLevel>
+        <AbilityId>1858105709</AbilityId>
+        <Description>Increases damage done by 10% and Critical Hit chance with damaging abilities by 5%. Lasts 1h.</Description>
+        <AddonId>A6EC0716DB0D1A70C</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>3600.000000</Duration>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>11</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Shroud of Agony</Name>
+      <Icon>riftstalker_great_fortitude_01_a</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>11</RequiredLevel>
+        <AbilityId>1981413061</AbilityId>
+        <Description>Grants a 20% chance when hit to deal 55 Death damage to up to 10 nearby enemies over 6s. Lasts 1h.</Description>
+        <AddonId>A7619F6C5BC624EF1</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>17</RequiredLevel>
+        <AbilityId>861304448</AbilityId>
+        <Description>Grants a 20% chance when hit to deal 62 Death damage to up to 10 nearby enemies over 6s. Lasts 1h.</Description>
+        <AddonId>A335676809C5B242D</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>23</RequiredLevel>
+        <AbilityId>-96935393</AbilityId>
+        <Description>Grants a 20% chance when hit to deal 73 Death damage to up to 10 nearby enemies over 6s. Lasts 1h.</Description>
+        <AddonId>AFA38E21F898EBE46</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>29</RequiredLevel>
+        <AbilityId>-15433798</AbilityId>
+        <Description>Grants a 20% chance when hit to deal 82 Death damage to up to 10 nearby enemies over 6s. Lasts 1h.</Description>
+        <AddonId>AFF147FBAE62380CC</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>35</RequiredLevel>
+        <AbilityId>-5521722</AbilityId>
+        <Description>Grants a 20% chance when hit to deal 95 Death damage to up to 10 nearby enemies over 6s. Lasts 1h.</Description>
+        <AddonId>AFFABBEC6B48A6EB2</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>41</RequiredLevel>
+        <AbilityId>-95191593</AbilityId>
+        <Description>Grants a 20% chance when hit to deal 113 Death damage to up to 10 nearby enemies over 6s. Lasts 1h.</Description>
+        <AddonId>AFA537DD736597A28</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>47</RequiredLevel>
+        <AbilityId>-4985344</AbilityId>
+        <Description>Grants a 20% chance when hit to deal 148 Death damage to up to 10 nearby enemies over 6s. Lasts 1h.</Description>
+        <AddonId>AFFB3EE00A6D9405F</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>51</RequiredLevel>
+        <AbilityId>-39037847</AbilityId>
+        <Description>Grants a 20% chance when hit to deal 175 Death damage to up to 10 nearby enemies over 6s. Lasts 1h.</Description>
+        <AddonId>AFDAC54691DD8988C</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>54</RequiredLevel>
+        <AbilityId>-97108904</AbilityId>
+        <Description>Grants a 20% chance when hit to deal 294 Death damage to up to 10 nearby enemies over 6s. Lasts 1h.</Description>
+        <AddonId>AFA363C588FE0B0A1</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>57</RequiredLevel>
+        <AbilityId>-12282007</AbilityId>
+        <Description>Grants a 20% chance when hit to deal 414 Death damage to up to 10 nearby enemies over 6s. Lasts 1h.</Description>
+        <AddonId>AFF44976953EFEC72</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>11</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>-98646765</AbilityId>
+        <Description>Grants a 20% chance when hit to deal 469 Death damage to up to 10 nearby enemies over 6s. Lasts 1h.</Description>
+        <AddonId>AFA1EC513A40C7BAC</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>40</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Confound</Name>
+      <Icon>tempest_bounce_shot_a</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>40</RequiredLevel>
+        <AbilityId>2012277402</AbilityId>
+        <Description>Interrupts.</Description>
+        <AddonId>A77F0EA9A9758B569</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>44</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Aggressive Renewal</Name>
+      <Icon>manachannel1</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>44</RequiredLevel>
+        <AbilityId>2022923252</AbilityId>
+        <Description>Deals 673 Death damage over 3s. Restores 15% mana to the Cleric over the same duration.</Description>
+        <AddonId>A78935BF4918123B2</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>45.000004</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CastTime>Instant</CastTime>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">1.130000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>50</RequiredLevel>
+        <AbilityId>1158797272</AbilityId>
+        <Description>Deals 757 Death damage over 3s. Restores 15% mana to the Cleric over the same duration.</Description>
+        <AddonId>A4511D7D822CDC0E8</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>45.000004</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CastTime>Instant</CastTime>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">1.130000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>53</RequiredLevel>
+        <AbilityId>1397588204</AbilityId>
+        <Description>Deals 1281 Death damage over 3s. Restores 15% mana to the Cleric over the same duration.</Description>
+        <AddonId>A534D80EC8A1582F7</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>45.000004</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CastTime>Instant</CastTime>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">1.130000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>56</RequiredLevel>
+        <AbilityId>849171307</AbilityId>
+        <Description>Deals 2177 Death damage over 3s. Restores 15% mana to the Cleric over the same duration.</Description>
+        <AddonId>A329D536B933AE130</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>45.000004</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CastTime>Instant</CastTime>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">1.130000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>59</RequiredLevel>
+        <AbilityId>1203148192</AbilityId>
+        <Description>Deals 2467 Death damage over 3s. Restores 15% mana to the Cleric over the same duration.</Description>
+        <AddonId>A47B695A04E0E4105</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>45.000004</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CastTime>Instant</CastTime>
+        <Duration>3.000000</Duration>
+        <Interval>1.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">1.130000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.250000</DamageMultiplier>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>12</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Purge</Name>
+      <Icon>purge_a</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>12</RequiredLevel>
+        <AbilityId>2053902436</AbilityId>
+        <Description>Removes 2 Buffs.</Description>
+        <AddonId>A7A6C1064540AEAE0</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+  </Abilities>
+</SoulTree>
+

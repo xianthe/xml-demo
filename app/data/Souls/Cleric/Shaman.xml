@@ -1,0 +1,2677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SoulTree calling="Cleric" name="Shaman">
+  <Traits>
+    <Trait>
+      <Key>0</Key>
+      <Name>Thick Skinned</Name>
+      <Icon>steelskin3</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>0</MinimumPointsSpent>
+      <DisplayRow>0</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>1234456496</AbilityId>
+          <Description></Description>
+          <AddonId>A49944FB042E584ED</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="5">
+        <Rank>
+          <Points>1</Points>
+          <Description>Reduces the damage you receive by 1%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Reduces the damage you receive by 2%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Reduces the damage you receive by 3%.</Description>
+        </Rank>
+        <Rank>
+          <Points>4</Points>
+          <Description>Reduces the damage you receive by 4%.</Description>
+        </Rank>
+        <Rank>
+          <Points>5</Points>
+          <Description>Reduces the damage you receive by 5%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>1</Key>
+      <Name>Dauntless Courage</Name>
+      <Icon>heroicsurge1</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>0</MinimumPointsSpent>
+      <DisplayRow>0</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>1561688358</AbilityId>
+          <Description></Description>
+          <AddonId>A5D157926221B2774</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="5">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your Spell Power by 2%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your Spell Power by 4%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases your Spell Power by 6%.</Description>
+        </Rank>
+        <Rank>
+          <Points>4</Points>
+          <Description>Increases your Spell Power by 8%.</Description>
+        </Rank>
+        <Rank>
+          <Points>5</Points>
+          <Description>Increases your Spell Power by 10%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>2</Key>
+      <Name>Favored of the Valnir</Name>
+      <Icon>shaman-lighting_hammer</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>5</MinimumPointsSpent>
+      <DisplayRow>1</DisplayRow>
+      <DisplayColumn>0</DisplayColumn>
+      <Abilities>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases the duration of Lightning by 2s.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases the duration of Lightning by 4s.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases the duration of Lightning by 6s.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>3</Key>
+      <Name>Courage of the Bear</Name>
+      <Icon>shaman-courage_of_the_bear</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>5</MinimumPointsSpent>
+      <DisplayRow>1</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>702835163</AbilityId>
+          <Description>Increases Endurance by 5%. Lasts 1h.</Description>
+          <AddonId>A29E469DB49A5A0FA</AddonId>
+          <IsPassive>False</IsPassive>
+          <CostManaPercent>4.500000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+          <Duration>3600.000000</Duration>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>4</Key>
+      <Name>Vicious Streak</Name>
+      <Icon>scrape1</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>5</MinimumPointsSpent>
+      <DisplayRow>1</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-53936460</AbilityId>
+          <Description></Description>
+          <AddonId>AFCC8FEB4183C6676</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="5">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases the Critical Hit chance of your abilities by 1%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases the Critical Hit chance of your abilities by 2%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases the Critical Hit chance of your abilities by 3%.</Description>
+        </Rank>
+        <Rank>
+          <Points>4</Points>
+          <Description>Increases the Critical Hit chance of your abilities by 4%.</Description>
+        </Rank>
+        <Rank>
+          <Points>5</Points>
+          <Description>Increases the Critical Hit chance of your abilities by 5%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>5</Key>
+      <Name>Singled Out</Name>
+      <Icon>chainlighting2b</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>5</MinimumPointsSpent>
+      <DisplayRow>1</DisplayRow>
+      <DisplayColumn>3</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-23866294</AbilityId>
+          <Description></Description>
+          <AddonId>AFE93D44A1355977C</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="2">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your damage done with single target abilities by 2%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your damage done with single target abilities by 4%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>6</Key>
+      <Name>Stormborn</Name>
+      <Icon>void_knight-tempest</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>10</MinimumPointsSpent>
+      <DisplayRow>2</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>1551367587</AbilityId>
+          <Description></Description>
+          <AddonId>A5C77FDA3714A64D7</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your Air and Water damage done by 5%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your Air and Water damage done by 10%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases your Air and Water damage done by 15%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>7</Key>
+      <Name>Powerful Grip</Name>
+      <Icon>void_knight-ravenous_strength</Icon>
+      <BendType>VerticalToHorizontal</BendType>
+      <MinimumPointsSpent>10</MinimumPointsSpent>
+      <DisplayRow>2</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-48320412</AbilityId>
+          <Description></Description>
+          <AddonId>AFD1EB0642F1E82E4</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="5">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your damage done with weapon attacks by 2%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your damage done with weapon attacks by 4%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases your damage done with weapon attacks by 6%.</Description>
+        </Rank>
+        <Rank>
+          <Points>4</Points>
+          <Description>Increases your damage done with weapon attacks by 8%.</Description>
+        </Rank>
+        <Rank>
+          <Points>5</Points>
+          <Description>Increases your damage done with weapon attacks by 10%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>8</Key>
+      <Name>Glacial Shield</Name>
+      <Icon>shaman-glacial_shield</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>10</MinimumPointsSpent>
+      <DisplayRow>2</DisplayRow>
+      <DisplayColumn>3</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>1382508543</AbilityId>
+          <Description>Absorbs 25% of damage taken, up to 168 damage. Deals 9 Water damage to attackers when hit. Lasts 30s.</Description>
+          <AddonId>A526767FFF11B6F27</AddonId>
+          <IsPassive>False</IsPassive>
+          <Cooldown>30.000002</Cooldown>
+          <CostManaPercent>7.500000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+          <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>9</Key>
+      <Name>Cold Blooded</Name>
+      <Icon>generic_ability_029</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>15</MinimumPointsSpent>
+      <DisplayRow>3</DisplayRow>
+      <DisplayColumn>0</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-39956081</AbilityId>
+          <Description></Description>
+          <AddonId>AFD9E518F041E89DC</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="2">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your damage done by 3%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your damage done by 6%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>10</Key>
+      <Name>Numbing Cold</Name>
+      <Icon>shaman-vengeance_of_frozen_earth_c</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>15</MinimumPointsSpent>
+      <DisplayRow>3</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-49795214</AbilityId>
+          <Description>Reduces healing and absorption received by 10% for 15s.</Description>
+          <AddonId>AFD082F72447EBFA7</AddonId>
+          <IsPassive>False</IsPassive>
+          <Cooldown>8.000000</Cooldown>
+          <MaxRange>30.000000</MaxRange>
+          <CostManaPercent>4.500000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+          <Duration>15.000000</Duration>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>11</Key>
+      <Name>Pattern of Violence</Name>
+      <Icon>shockwave2a</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>15</MinimumPointsSpent>
+      <DisplayRow>3</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-79924998</AbilityId>
+          <Description></Description>
+          <AddonId>AFB3C70FA79771F94</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Your weapon attacks reduce the current cooldown of Massive Blow by 0.66s.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Your weapon attacks reduce the current cooldown of Massive Blow by 1.33s.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Your weapon attacks reduce the current cooldown of Massive Blow by 2s.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>12</Key>
+      <Name>Brutalize</Name>
+      <Icon>bleeding_a</Icon>
+      <BendType>VerticalToHorizontal</BendType>
+      <MinimumPointsSpent>20</MinimumPointsSpent>
+      <DisplayRow>4</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Your Massive Blow causes the enemy to bleed, dealing an additional 15% damage over 3s.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Your Massive Blow causes the enemy to bleed, dealing an additional 30% damage over 3s.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Your Massive Blow causes the enemy to bleed, dealing an additional 45% damage over 3s.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>13</Key>
+      <Name>Bitter Wind</Name>
+      <Icon>shaman-vengeance_of_bitter_wind</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>20</MinimumPointsSpent>
+      <DisplayRow>4</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>596140913</AbilityId>
+          <Description>Interrupts.</Description>
+          <AddonId>A2388637170F9C0F6</AddonId>
+          <IsPassive>False</IsPassive>
+          <Cooldown>10.000000</Cooldown>
+          <MaxRange>30.000000</MaxRange>
+          <CostManaPercent>4.500000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>14</Key>
+      <Name>Furious Blows</Name>
+      <Icon>slam3</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>20</MinimumPointsSpent>
+      <DisplayRow>4</DisplayRow>
+      <DisplayColumn>3</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-1042524</AbilityId>
+          <Description></Description>
+          <AddonId>AFFF017A430D77AA2</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="2">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases the effect of Spell Power on your Crushing Blow and Icy Blow by 5%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases the effect of Spell Power on your Crushing Blow and Icy Blow by 10%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>15</Key>
+      <Name>Snowbank</Name>
+      <Icon>beastmaster_shared_bonds</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>25</MinimumPointsSpent>
+      <DisplayRow>5</DisplayRow>
+      <DisplayColumn>0</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-10886127</AbilityId>
+          <Description>Snares for 8s.</Description>
+          <AddonId>AFF59E4118B387E65</AddonId>
+          <IsPassive>False</IsPassive>
+          <Cooldown>15.000001</Cooldown>
+          <MaxRange>30.000000</MaxRange>
+          <CostManaPercent>4.500000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+          <Duration>8.000000</Duration>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>16</Key>
+      <Name>Frozen Embrace</Name>
+      <Icon>layinghands1</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>25</MinimumPointsSpent>
+      <DisplayRow>5</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>398855930</AbilityId>
+          <Description></Description>
+          <AddonId>A17C60EFA1BA5C5A8</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="2">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your chance to Critically Hit with Air and Water abilities by 5%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your chance to Critically Hit with Air and Water abilities by 10%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>17</Key>
+      <Name>Shocking Conclusion</Name>
+      <Icon>stormcaller_lightning_storm_01</Icon>
+      <BendType>VerticalToHorizontal</BendType>
+      <MinimumPointsSpent>25</MinimumPointsSpent>
+      <DisplayRow>5</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your damage done with Lightning by 10%. Increases your damage done with Jolt after a Critical Hit with a weapon attack by 40%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your damage done with Lightning by 20%. Increases your damage done with Jolt after a Critical Hit with a weapon attack by 80%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases your damage done with Lightning by 30%. Increases your damage done with Jolt after a Critical Hit with a weapon attack by 120%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>18</Key>
+      <Name>Rage of the North</Name>
+      <Icon>spiritofcrusader2</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>30</MinimumPointsSpent>
+      <DisplayRow>6</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-47657450</AbilityId>
+          <Description>Adds 10 stacks of Rage of the North. Increases Critical Hit chance with damaging abilities by 10% per stack. Each Critical Hit reduces the stack by 1. Lasts 60s.</Description>
+          <AddonId>AFD28CE16796678A7</AddonId>
+          <IsPassive>False</IsPassive>
+          <Cooldown>60.000004</Cooldown>
+          <CostManaPercent>4.500000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>19</Key>
+      <Name>Frostbite</Name>
+      <Icon>shatter3a</Icon>
+      <BendType>VerticalToHorizontal</BendType>
+      <MinimumPointsSpent>30</MinimumPointsSpent>
+      <DisplayRow>6</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>1602597247</AbilityId>
+          <Description></Description>
+          <AddonId>A5F85B17F4E1F0253</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Your non-Physical weapon attacks increase your damage done with your next Physical weapon attack by 10%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Your non-Physical weapon attacks increase your damage done with your next Physical weapon attack by 20%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Your non-Physical weapon attacks increase your damage done with your next Physical weapon attack by 30%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>20</Key>
+      <Name>Heavy Weight</Name>
+      <Icon>steelskin2</Icon>
+      <BendType>VerticalToHorizontal</BendType>
+      <MinimumPointsSpent>30</MinimumPointsSpent>
+      <DisplayRow>6</DisplayRow>
+      <DisplayColumn>3</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-44021586</AbilityId>
+          <Description></Description>
+          <AddonId>AFD6048AE14BBFD68</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="2">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your damage done with Massive Blow by 10%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your damage done with Massive Blow by 20%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>21</Key>
+      <Name>Wear and Tear</Name>
+      <Icon>exposeweakness2</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>35</MinimumPointsSpent>
+      <DisplayRow>7</DisplayRow>
+      <DisplayColumn>0</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-81174172</AbilityId>
+          <Description></Description>
+          <AddonId>AFB296164664C3E4E</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="2">
+        <Rank>
+          <Points>1</Points>
+          <Description>Your damaging abilities ignore 15% of the target&apos;s Armor and Resistances.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Your damaging abilities ignore 30% of the target&apos;s Armor and Resistances.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>22</Key>
+      <Name>Heart of Ice</Name>
+      <Icon>icy_heart2</Icon>
+      <BendType>VerticalToHorizontal</BendType>
+      <MinimumPointsSpent>35</MinimumPointsSpent>
+      <DisplayRow>7</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-95538550</AbilityId>
+          <Description></Description>
+          <AddonId>AFA4E328A4D865867</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your damage done using Vengeances by 20%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your damage done using Vengeances by 40%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases your damage done using Vengeances by 60%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>23</Key>
+      <Name>Strike of the Maelstrom</Name>
+      <Icon>whirlwind1a</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>35</MinimumPointsSpent>
+      <DisplayRow>7</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>253388216</AbilityId>
+          <Description>Deals 74 to 82 damage to up to 5 enemies.</Description>
+          <AddonId>A0F1A65B8394393D4</AddonId>
+          <IsPassive>False</IsPassive>
+          <RequiresWeapon>Melee Weapon</RequiresWeapon>
+          <CostManaPercent>9.000000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>24</Key>
+      <Name>Deep Freeze</Name>
+      <Icon>paragon-way_of_mountain_c</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>40</MinimumPointsSpent>
+      <DisplayRow>8</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-50846265</AbilityId>
+          <Description>Stuns nearby enemies for 3s. Increases damage taken from the Cleric by 50%.</Description>
+          <AddonId>AFCF825C72F17E35F</AddonId>
+          <IsPassive>False</IsPassive>
+          <Cooldown>60.000004</Cooldown>
+          <CostManaPercent>4.500000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+          <Radius>7.000000</Radius>
+          <MaxAffected>50</MaxAffected>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+  </Traits>
+  <Abilities>
+    <Ability>
+      <MinimumPointsInSoul>58</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Courage of the Panther</Name>
+      <Icon>shaman-courage_of_the_jaguar</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>57</RequiredLevel>
+        <AbilityId>-96393620</AbilityId>
+        <Description>Increases damage done by 10%. Allows abilities to ignore 5% of their targets&apos; Armor and Resistance. Reduces mana costs by 5%. Lasts 1h.</Description>
+        <AddonId>AFA41266C947063F4</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>3600.000000</Duration>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>40</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Windwalk</Name>
+      <Icon>deflection2b</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>40</RequiredLevel>
+        <AbilityId>-71373486</AbilityId>
+        <Description>Increases Dodge and Parry by 25%. Increases movement speed by 50%. Lasts 15s.</Description>
+        <AddonId>AFBBEED522C187A3D</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>60.000004</Cooldown>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>20</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Glory of the Chosen</Name>
+      <Icon>rally1x</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>20</RequiredLevel>
+        <AbilityId>-63348691</AbilityId>
+        <Description>Causes weapon attacks to restore 2 to 2 health to the Cleric. Lasts 1h.</Description>
+        <AddonId>AFC39602DBD2D73A1</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>24</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Ageless Ice</Name>
+      <Icon>icy_heart1</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>24</RequiredLevel>
+        <AbilityId>-55233057</AbilityId>
+        <Description>Restores 7% mana. Snares the Cleric for 5s.</Description>
+        <AddonId>AFCB535DF34BEAEDF</AddonId>
+        <IsPassive>False</IsPassive>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>61</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Furious Assault</Name>
+      <Icon>spiritofcrusader1</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>-54685630</AbilityId>
+        <Description>Reduces the Cleric&apos;s Global Cooldown by 0.5s. Reduces mana costs by 35%. Reduces area effect damage by 25%. Applies all Shaman Courage buffs when cast. Lasts 1h.</Description>
+        <AddonId>AFCBD90426E190E66</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>5.000000</Cooldown>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>3600.000000</Duration>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>41</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Deep Freeze</Name>
+      <Icon>paragon-way_of_mountain_c</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>41</RequiredLevel>
+        <AbilityId>-50846265</AbilityId>
+        <Description>Stuns nearby enemies for 3s. Increases damage taken from the Cleric by 50%.</Description>
+        <AddonId>AFCF825C72F17E35F</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>60.000004</Cooldown>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>50</MaxAffected>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>16</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Numbing Cold</Name>
+      <Icon>shaman-vengeance_of_frozen_earth_c</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>16</RequiredLevel>
+        <AbilityId>-49795214</AbilityId>
+        <Description>Reduces healing and absorption received by 10% for 15s.</Description>
+        <AddonId>AFD082F72447EBFA7</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>8.000000</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>31</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Rage of the North</Name>
+      <Icon>spiritofcrusader2</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>31</RequiredLevel>
+        <AbilityId>-47657450</AbilityId>
+        <Description>Adds 10 stacks of Rage of the North. Increases Critical Hit chance with damaging abilities by 10% per stack. Each Critical Hit reduces the stack by 1. Lasts 60s.</Description>
+        <AddonId>AFD28CE16796678A7</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>60.000004</Cooldown>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>0</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Call of Ice</Name>
+      <Icon>icebolt4a</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>0</RequiredLevel>
+        <AbilityId>-45561272</AbilityId>
+        <Description></Description>
+        <AddonId>AFD48CA48064B15D2</AddonId>
+        <IsPassive>True</IsPassive>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>24</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Improved Jolt</Name>
+      <Icon>lighting1</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>24</RequiredLevel>
+        <AbilityId>-34209890</AbilityId>
+        <Description></Description>
+        <AddonId>AFDF5FF9E2ABFB2AC</AddonId>
+        <IsPassive>True</IsPassive>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>54</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Glacial Strike</Name>
+      <Icon>harbinger_rending_slash_a</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>53</RequiredLevel>
+        <AbilityId>-33248561</AbilityId>
+        <Description>Deals 755 to 834 Water damage. Ignores 25% of the enemy&apos;s Resistance. Only usable on enemies under 30% health.</Description>
+        <AddonId>AFE04AACF9F2DC39D</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>1.880000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.400000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>56</RequiredLevel>
+        <AbilityId>-83439473</AbilityId>
+        <Description>Deals 1347 to 1488 Water damage. Ignores 25% of the enemy&apos;s Resistance. Only usable on enemies under 30% health.</Description>
+        <AddonId>AFB06D08F5245A9BF</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>1.880000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.400000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>59</RequiredLevel>
+        <AbilityId>-55980277</AbilityId>
+        <Description>Deals 1540 to 1703 Water damage. Ignores 25% of the enemy&apos;s Resistance. Only usable on enemies under 30% health.</Description>
+        <AddonId>AFCA9CF0B9559C214</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>1.880000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.400000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>32</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Icy Blow</Name>
+      <Icon>shatter3</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>32</RequiredLevel>
+        <AbilityId>-17932814</AbilityId>
+        <Description>Deals 111 to 123 Water damage.</Description>
+        <AddonId>AFEEE5DF27A07837E</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>38</RequiredLevel>
+        <AbilityId>-85267568</AbilityId>
+        <Description>Deals 133 to 147 Water damage.</Description>
+        <AddonId>AFAEAEB903AF2C197</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>44</RequiredLevel>
+        <AbilityId>-86023446</AbilityId>
+        <Description>Deals 174 to 192 Water damage.</Description>
+        <AddonId>AFADF62EA8ADA189B</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>50</RequiredLevel>
+        <AbilityId>-43654141</AbilityId>
+        <Description>Deals 197 to 217 Water damage.</Description>
+        <AddonId>AFD65E40377C17FAA</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>53</RequiredLevel>
+        <AbilityId>-81116238</AbilityId>
+        <Description>Deals 314 to 348 Water damage.</Description>
+        <AddonId>AFB2A43B2AEA5E74B</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>56</RequiredLevel>
+        <AbilityId>-59462686</AbilityId>
+        <Description>Deals 560 to 620 Water damage.</Description>
+        <AddonId>AFC74ABE23E83782F</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>59</RequiredLevel>
+        <AbilityId>-44719728</AbilityId>
+        <Description>Deals 641 to 709 Water damage.</Description>
+        <AddonId>AFD55A190341CDD69</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>4</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Ride the Lightning</Name>
+      <Icon>power_chord_b</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>4</RequiredLevel>
+        <AbilityId>-16872553</AbilityId>
+        <Description>Charges at the enemy, dealing 31 to 35 Air damage to the enemy and all enemies in the path to the enemy. Roots the enemy for 1.5s. Removes all movement impairing effects from the Cleric.</Description>
+        <AddonId>AFEFE8B97AD52DB33</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MinRange>3.000000</MinRange>
+        <MaxRange>20.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>8</RequiredLevel>
+        <AbilityId>-51477467</AbilityId>
+        <Description>Charges at the enemy, dealing 39 to 43 Air damage to the enemy and all enemies in the path to the enemy. Roots the enemy for 1.5s. Removes all movement impairing effects from the Cleric.</Description>
+        <AddonId>AFCEE8425E6E38E5D</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MinRange>3.000000</MinRange>
+        <MaxRange>20.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>12</RequiredLevel>
+        <AbilityId>-27298677</AbilityId>
+        <Description>Charges at the enemy, dealing 47 to 53 Air damage to the enemy and all enemies in the path to the enemy. Roots the enemy for 1.5s. Removes all movement impairing effects from the Cleric.</Description>
+        <AddonId>AFE5F748BA2C3BA27</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MinRange>3.000000</MinRange>
+        <MaxRange>20.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>16</RequiredLevel>
+        <AbilityId>-80765784</AbilityId>
+        <Description>Charges at the enemy, dealing 52 to 58 Air damage to the enemy and all enemies in the path to the enemy. Roots the enemy for 1.5s. Removes all movement impairing effects from the Cleric.</Description>
+        <AddonId>AFB2F9CA886E600A1</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MinRange>3.000000</MinRange>
+        <MaxRange>20.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>22</RequiredLevel>
+        <AbilityId>-82912219</AbilityId>
+        <Description>Charges at the enemy, dealing 62 to 68 Air damage to the enemy and all enemies in the path to the enemy. Roots the enemy for 1.5s. Removes all movement impairing effects from the Cleric.</Description>
+        <AddonId>AFB0EDC25E352C6A0</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MinRange>3.000000</MinRange>
+        <MaxRange>20.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>28</RequiredLevel>
+        <AbilityId>-45506862</AbilityId>
+        <Description>Charges at the enemy, dealing 70 to 78 Air damage to the enemy and all enemies in the path to the enemy. Roots the enemy for 1.5s. Removes all movement impairing effects from the Cleric.</Description>
+        <AddonId>AFD499ED222914087</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MinRange>3.000000</MinRange>
+        <MaxRange>20.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>34</RequiredLevel>
+        <AbilityId>-59326267</AbilityId>
+        <Description>Charges at the enemy, dealing 82 to 90 Air damage to the enemy and all enemies in the path to the enemy. Roots the enemy for 1.5s. Removes all movement impairing effects from the Cleric.</Description>
+        <AddonId>AFC76C0C5A512E173</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MinRange>3.000000</MinRange>
+        <MaxRange>20.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>40</RequiredLevel>
+        <AbilityId>-42939574</AbilityId>
+        <Description>Charges at the enemy, dealing 93 to 103 Air damage to the enemy and all enemies in the path to the enemy. Roots the enemy for 1.5s. Removes all movement impairing effects from the Cleric.</Description>
+        <AddonId>AFD70CB4A8AD108DE</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MinRange>3.000000</MinRange>
+        <MaxRange>20.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>46</RequiredLevel>
+        <AbilityId>-45117960</AbilityId>
+        <Description>Charges at the enemy, dealing 130 to 144 Air damage to the enemy and all enemies in the path to the enemy. Roots the enemy for 1.5s. Removes all movement impairing effects from the Cleric.</Description>
+        <AddonId>AFD4F8DF8A9094F6B</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MinRange>3.000000</MinRange>
+        <MaxRange>20.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>51</RequiredLevel>
+        <AbilityId>-82138375</AbilityId>
+        <Description>Charges at the enemy, dealing 155 to 171 Air damage to the enemy and all enemies in the path to the enemy. Roots the enemy for 1.5s. Removes all movement impairing effects from the Cleric.</Description>
+        <AddonId>AFB1AAAF9B82CAA86</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MinRange>3.000000</MinRange>
+        <MaxRange>20.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>11</Number>
+        <RequiredLevel>54</RequiredLevel>
+        <AbilityId>980774296</AbilityId>
+        <Description>Charges at the enemy, dealing 262 to 290 Air damage to the enemy and all enemies in the path to the enemy. Roots the enemy for 1.5s. Removes all movement impairing effects from the Cleric.</Description>
+        <AddonId>A3A756D98B0856889</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MinRange>3.000000</MinRange>
+        <MaxRange>20.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>12</Number>
+        <RequiredLevel>57</RequiredLevel>
+        <AbilityId>782376871</AbilityId>
+        <Description>Charges at the enemy, dealing 370 to 410 Air damage to the enemy and all enemies in the path to the enemy. Roots the enemy for 1.5s. Removes all movement impairing effects from the Cleric.</Description>
+        <AddonId>A2EA21FA77F44EF91</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MinRange>3.000000</MinRange>
+        <MaxRange>20.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>13</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>1885335978</AbilityId>
+        <Description>Charges at the enemy, dealing 419 to 463 Air damage to the enemy and all enemies in the path to the enemy. Roots the enemy for 1.5s. Removes all movement impairing effects from the Cleric.</Description>
+        <AddonId>A705FF1AAF04DCCA8</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MinRange>3.000000</MinRange>
+        <MaxRange>20.000000</MaxRange>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>26</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Snowbank</Name>
+      <Icon>beastmaster_shared_bonds</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>26</RequiredLevel>
+        <AbilityId>-10886127</AbilityId>
+        <Description>Snares for 8s.</Description>
+        <AddonId>AFF59E4118B387E65</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>8.000000</Duration>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>51</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Frozen Wrath</Name>
+      <Icon>holysmite4</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>50</RequiredLevel>
+        <AbilityId>120311091</AbilityId>
+        <Description>Deals 788 Water damage over 15s. Increases the damage the enemy takes from the Cleric&apos;s Vengeance of the Winter Storm by 100%. Spreads to up to 5 nearby enemies if hit by your Strike of the Maelstrom.</Description>
+        <AddonId>A072BCD33583F3BBC</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>3.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">4.000000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.166700</DamageMultiplier>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>53</RequiredLevel>
+        <AbilityId>-83386355</AbilityId>
+        <Description>Deals 1258 Water damage over 15s. Increases the damage the enemy takes from the Cleric&apos;s Vengeance of the Winter Storm by 100%. Spreads to up to 5 nearby enemies if hit by your Strike of the Maelstrom.</Description>
+        <AddonId>AFB07A00D7E204EF9</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>3.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">4.000000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.166700</DamageMultiplier>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>56</RequiredLevel>
+        <AbilityId>-37462998</AbilityId>
+        <Description>Deals 2244 Water damage over 15s. Increases the damage the enemy takes from the Cleric&apos;s Vengeance of the Winter Storm by 100%. Spreads to up to 5 nearby enemies if hit by your Strike of the Maelstrom.</Description>
+        <AddonId>AFDC45C2A8CC84652</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>3.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">4.000000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.166700</DamageMultiplier>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>59</RequiredLevel>
+        <AbilityId>-28257534</AbilityId>
+        <Description>Deals 2568 Water damage over 15s. Increases the damage the enemy takes from the Cleric&apos;s Vengeance of the Winter Storm by 100%. Spreads to up to 5 nearby enemies if hit by your Strike of the Maelstrom.</Description>
+        <AddonId>AFE50D302C0381519</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>3.000000</Interval>
+        <PowerStatCoefficient effect="0" action="0">4.000000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.166700</DamageMultiplier>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>44</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Vengeance of the Primal North</Name>
+      <Icon>chainlighting1</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>44</RequiredLevel>
+        <AbilityId>209031731</AbilityId>
+        <Description>Causes weapon attacks to deal an additional 1 to 1 Water damage to up to 5 enemies. Lasts 1h.</Description>
+        <AddonId>A0C7592337B6A3A6D</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>5.400000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>36</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Strike of the Maelstrom</Name>
+      <Icon>whirlwind1a</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>36</RequiredLevel>
+        <AbilityId>253388216</AbilityId>
+        <Description>Deals 74 to 82 damage to up to 5 enemies.</Description>
+        <AddonId>A0F1A65B8394393D4</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>42</RequiredLevel>
+        <AbilityId>1544736902</AbilityId>
+        <Description>Deals 91 to 101 damage to up to 5 enemies.</Description>
+        <AddonId>A5C12D086376C4979</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>48</RequiredLevel>
+        <AbilityId>1895760794</AbilityId>
+        <Description>Deals 118 to 130 damage to up to 5 enemies.</Description>
+        <AddonId>A70FF039A854C6958</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>52</RequiredLevel>
+        <AbilityId>1289296567</AbilityId>
+        <Description>Deals 151 to 167 damage to up to 5 enemies.</Description>
+        <AddonId>A4CD91AB779F8058F</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>55</RequiredLevel>
+        <AbilityId>805220428</AbilityId>
+        <Description>Deals 280 to 310 damage to up to 5 enemies.</Description>
+        <AddonId>A2FFEB04C880BBD03</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>58</RequiredLevel>
+        <AbilityId>-29308767</AbilityId>
+        <Description>Deals 385 to 425 damage to up to 5 enemies.</Description>
+        <AddonId>AFE40C8A12F9DD21F</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>21</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Bitter Wind</Name>
+      <Icon>shaman-vengeance_of_bitter_wind</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>21</RequiredLevel>
+        <AbilityId>596140913</AbilityId>
+        <Description>Interrupts.</Description>
+        <AddonId>A2388637170F9C0F6</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>0</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Vengeance of the Winter Storm</Name>
+      <Icon>shaman-vengeance_of_winter_storm</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>0</RequiredLevel>
+        <AbilityId>697515884</AbilityId>
+        <Description>Causes weapon attacks to deal an additional 10 to 11 Water damage. Lasts 1h.</Description>
+        <AddonId>A29933F6CDE902A7E</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>5.000000</Cooldown>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>6</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Courage of the Bear</Name>
+      <Icon>shaman-courage_of_the_bear</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>6</RequiredLevel>
+        <AbilityId>702835163</AbilityId>
+        <Description>Increases Endurance by 5%. Lasts 1h.</Description>
+        <AddonId>A29E469DB49A5A0FA</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>3600.000000</Duration>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>12</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Ekkehard&apos;s Grasp</Name>
+      <Icon>lighting2</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>12</RequiredLevel>
+        <AbilityId>772075368</AbilityId>
+        <Description>Deals 64 to 71 Air damage.</Description>
+        <AddonId>A2E04EF6878B877FA</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.800000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>18</RequiredLevel>
+        <AbilityId>1880189816</AbilityId>
+        <Description>Deals 74 to 81 Air damage.</Description>
+        <AddonId>A70116B785786BEF4</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.800000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>24</RequiredLevel>
+        <AbilityId>826311691</AbilityId>
+        <Description>Deals 86 to 95 Air damage.</Description>
+        <AddonId>A3140840B7A108C1D</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.800000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>30</RequiredLevel>
+        <AbilityId>1121413106</AbilityId>
+        <Description>Deals 97 to 108 Air damage.</Description>
+        <AddonId>A42D767F25C72B09F</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.800000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>36</RequiredLevel>
+        <AbilityId>228283432</AbilityId>
+        <Description>Deals 114 to 125 Air damage.</Description>
+        <AddonId>A0D9B54284123A212</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.800000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>42</RequiredLevel>
+        <AbilityId>600165310</AbilityId>
+        <Description>Deals 136 to 151 Air damage.</Description>
+        <AddonId>A23C5CBBEBADCFBCF</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.800000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>48</RequiredLevel>
+        <AbilityId>1546356692</AbilityId>
+        <Description>Deals 174 to 193 Air damage.</Description>
+        <AddonId>A5C2B87D47978853F</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.800000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>52</RequiredLevel>
+        <AbilityId>-16596331</AbilityId>
+        <Description>Deals 241 to 266 Air damage.</Description>
+        <AddonId>AFF02C295A2F68114</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.800000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>55</RequiredLevel>
+        <AbilityId>-32617797</AbilityId>
+        <Description>Deals 417 to 460 Air damage.</Description>
+        <AddonId>AFE0E4ABB75ED7AB3</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.800000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>58</RequiredLevel>
+        <AbilityId>-77139808</AbilityId>
+        <Description>Deals 559 to 618 Air damage.</Description>
+        <AddonId>AFB66F0A08FC15F1E</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.800000</PowerStatCoefficient>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>36</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Courage of the Eagle</Name>
+      <Icon>ironwill2</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>36</RequiredLevel>
+        <AbilityId>829413277</AbilityId>
+        <Description>Increases Wisdom by 5%. Lasts 1h.</Description>
+        <AddonId>A316FD79D56211F93</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>3600.000000</Duration>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>48</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Rush of Strength</Name>
+      <Icon>tempest_physical_training_y</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>48</RequiredLevel>
+        <AbilityId>872686429</AbilityId>
+        <Description>Resets the cooldown on Massive Blow.</Description>
+        <AddonId>A3404235D7D8FEA1B</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>2</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Lightning Hammer</Name>
+      <Icon>shaman-lighting_hammer</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>2</RequiredLevel>
+        <AbilityId>1126308096</AbilityId>
+        <Description>Deals 19 to 21 Air damage. Lightning deals an additional 29 Air damage over 9s. Damage increases over the duration.</Description>
+        <AddonId>A432219006DDE6ACB</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>6</RequiredLevel>
+        <AbilityId>449271705</AbilityId>
+        <Description>Deals 23 to 25 Air damage. Lightning deals an additional 34 Air damage over 9s. Damage increases over the duration.</Description>
+        <AddonId>A1AC757999C3D44C9</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>10</RequiredLevel>
+        <AbilityId>976363058</AbilityId>
+        <Description>Deals 30 to 33 Air damage. Lightning deals an additional 44 Air damage over 9s. Damage increases over the duration.</Description>
+        <AddonId>A3A321E324892F3C2</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>14</RequiredLevel>
+        <AbilityId>705589594</AbilityId>
+        <Description>Deals 33 to 37 Air damage. Lightning deals an additional 50 Air damage over 9s. Damage increases over the duration.</Description>
+        <AddonId>A2A0E715AA476E52D</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>20</RequiredLevel>
+        <AbilityId>1191060959</AbilityId>
+        <Description>Deals 39 to 43 Air damage. Lightning deals an additional 58 Air damage over 9s. Damage increases over the duration.</Description>
+        <AddonId>A46FE25DFD1E85CFF</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>26</RequiredLevel>
+        <AbilityId>46187323</AbilityId>
+        <Description>Deals 47 to 52 Air damage. Lightning deals an additional 70 Air damage over 9s. Damage increases over the duration.</Description>
+        <AddonId>A02C0C33BC95935E5</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>32</RequiredLevel>
+        <AbilityId>367966478</AbilityId>
+        <Description>Deals 55 to 61 Air damage. Lightning deals an additional 82 Air damage over 9s. Damage increases over the duration.</Description>
+        <AddonId>A15EEB90E9DF57022</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>38</RequiredLevel>
+        <AbilityId>265674510</AbilityId>
+        <Description>Deals 66 to 73 Air damage. Lightning deals an additional 98 Air damage over 9s. Damage increases over the duration.</Description>
+        <AddonId>A0FD5DF0E78DAD634</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>44</RequiredLevel>
+        <AbilityId>1083839719</AbilityId>
+        <Description>Deals 87 to 96 Air damage. Lightning deals an additional 128 Air damage over 9s. Damage increases over the duration.</Description>
+        <AddonId>A409A14E777349937</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>50</RequiredLevel>
+        <AbilityId>-41550627</AbilityId>
+        <Description>Deals 98 to 108 Air damage. Lightning deals an additional 145 Air damage over 9s. Damage increases over the duration.</Description>
+        <AddonId>AFD85FCDDC04C1E0C</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>11</Number>
+        <RequiredLevel>53</RequiredLevel>
+        <AbilityId>-15572586</AbilityId>
+        <Description>Deals 157 to 174 Air damage. Lightning deals an additional 232 Air damage over 9s. Damage increases over the duration.</Description>
+        <AddonId>AFF126196AE4E5313</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>12</Number>
+        <RequiredLevel>56</RequiredLevel>
+        <AbilityId>-45648559</AbilityId>
+        <Description>Deals 280 to 310 Air damage. Lightning deals an additional 413 Air damage over 9s. Damage increases over the duration.</Description>
+        <AddonId>AFD47755137389252</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>13</Number>
+        <RequiredLevel>59</RequiredLevel>
+        <AbilityId>-61288306</AbilityId>
+        <Description>Deals 320 to 354 Air damage. Lightning deals an additional 473 Air damage over 9s. Damage increases over the duration.</Description>
+        <AddonId>AFC58D08E8A9B48EB</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>28</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Heart of the Frozen Sea</Name>
+      <Icon>arkanxshield1</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>28</RequiredLevel>
+        <AbilityId>1203007891</AbilityId>
+        <Description>Increases Resistances by 27 on all party or raid members.</Description>
+        <AddonId>A47B47193909A751E</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>38</RequiredLevel>
+        <AbilityId>-18108112</AbilityId>
+        <Description>Increases Resistances by 32 on all party or raid members.</Description>
+        <AddonId>AFEEBB130D0EA1165</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>48</RequiredLevel>
+        <AbilityId>-77570775</AbilityId>
+        <Description>Increases Resistances by 40 on all party or raid members.</Description>
+        <AddonId>AFB605D2969012C80</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>53</RequiredLevel>
+        <AbilityId>-44973891</AbilityId>
+        <Description>Increases Resistances by 50 on all party or raid members.</Description>
+        <AddonId>AFD51C0BD6788C029</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>-49646426</AbilityId>
+        <Description>Increases Resistances by 65 on all party or raid members.</Description>
+        <AddonId>AFD0A74A67B22B6EF</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>11</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Glacial Shield</Name>
+      <Icon>shaman-glacial_shield</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>11</RequiredLevel>
+        <AbilityId>1382508543</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 168 damage. Deals 9 Water damage to attackers when hit. Lasts 30s.</Description>
+        <AddonId>A526767FFF11B6F27</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>17</RequiredLevel>
+        <AbilityId>535025943</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 222 damage. Deals 10 Water damage to attackers when hit. Lasts 30s.</Description>
+        <AddonId>A1FE3D917996D962D</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>23</RequiredLevel>
+        <AbilityId>1474919746</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 250 damage. Deals 11 Water damage to attackers when hit. Lasts 30s.</Description>
+        <AddonId>A57E97D42720C5B3D</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>29</RequiredLevel>
+        <AbilityId>888709029</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 295 damage. Deals 13 Water damage to attackers when hit. Lasts 30s.</Description>
+        <AddonId>A34F89FA58F11BB46</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>35</RequiredLevel>
+        <AbilityId>1710985072</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 313 damage. Deals 15 Water damage to attackers when hit. Lasts 30s.</Description>
+        <AddonId>A65FB8F7044F51971</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>41</RequiredLevel>
+        <AbilityId>910656180</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 327 damage. Deals 18 Water damage to attackers when hit. Lasts 30s.</Description>
+        <AddonId>A364782B4E0BF3D02</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>47</RequiredLevel>
+        <AbilityId>811116999</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 377 damage. Deals 23 Water damage to attackers when hit. Lasts 30s.</Description>
+        <AddonId>A3058A9C7E0A3FC64</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>51</RequiredLevel>
+        <AbilityId>648704190</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 391 damage. Deals 27 Water damage to attackers when hit. Lasts 30s.</Description>
+        <AddonId>A26AA70BEA035F4A0</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>54</RequiredLevel>
+        <AbilityId>-94843839</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 452 damage. Deals 46 Water damage to attackers when hit. Lasts 30s.</Description>
+        <AddonId>AFA58CC41833283C8</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>57</RequiredLevel>
+        <AbilityId>-71311383</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 484 damage. Deals 65 Water damage to attackers when hit. Lasts 30s.</Description>
+        <AddonId>AFBBFDFE9F79CBA11</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>11</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>-57064706</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 487 damage. Deals 74 Water damage to attackers when hit. Lasts 30s.</Description>
+        <AddonId>AFC9942FE4FE31DD1</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>8</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Massive Blow</Name>
+      <Icon>shockwave2a</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>8</RequiredLevel>
+        <AbilityId>1592331833</AbilityId>
+        <Description>Deals 103 to 114 damage.</Description>
+        <AddonId>A5EE90E39C07F5749</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="1" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="1" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>14</RequiredLevel>
+        <AbilityId>1281545373</AbilityId>
+        <Description>Deals 137 to 152 damage.</Description>
+        <AddonId>A4C62D49D61180CEB</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="1" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="1" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>20</RequiredLevel>
+        <AbilityId>894810675</AbilityId>
+        <Description>Deals 159 to 176 damage.</Description>
+        <AddonId>A3555BA3353D668DC</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="1" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="1" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>26</RequiredLevel>
+        <AbilityId>2073362023</AbilityId>
+        <Description>Deals 190 to 209 damage.</Description>
+        <AddonId>A7B94FE6785225F39</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="1" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="1" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>32</RequiredLevel>
+        <AbilityId>716896076</AbilityId>
+        <Description>Deals 223 to 246 damage.</Description>
+        <AddonId>A2ABAF74C7A20698A</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="1" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="1" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>38</RequiredLevel>
+        <AbilityId>890580753</AbilityId>
+        <Description>Deals 266 to 295 damage.</Description>
+        <AddonId>A35152F112E32FCF4</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="1" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="1" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>44</RequiredLevel>
+        <AbilityId>2065898895</AbilityId>
+        <Description>Deals 348 to 385 damage.</Description>
+        <AddonId>A7B231D8F5103439D</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="1" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="1" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>50</RequiredLevel>
+        <AbilityId>2129184048</AbilityId>
+        <Description>Deals 394 to 435 damage.</Description>
+        <AddonId>A7EE8C53083BD19C8</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="1" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="1" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>53</RequiredLevel>
+        <AbilityId>-50168296</AbilityId>
+        <Description>Deals 628 to 695 damage.</Description>
+        <AddonId>AFD027E18647C1D74</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="1" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="1" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>56</RequiredLevel>
+        <AbilityId>-21682679</AbilityId>
+        <Description>Deals 1121 to 1240 damage.</Description>
+        <AddonId>AFEB52609E5F8F547</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="1" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="1" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>11</Number>
+        <RequiredLevel>59</RequiredLevel>
+        <AbilityId>-16046938</AbilityId>
+        <Description>Deals 1284 to 1419 damage.</Description>
+        <AddonId>AFF0B24A6BE813DB8</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="1" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="1" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>24</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Jolt</Name>
+      <Icon>lighting1</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>24</RequiredLevel>
+        <AbilityId>1766883846</AbilityId>
+        <Description>Deals 49 to 54 Air damage. This damage is increased by 50% if used within 6s of a Critical Hit with a weapon attack.</Description>
+        <AddonId>A6950820674396665</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>6.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.560000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>30</RequiredLevel>
+        <AbilityId>1202817639</AbilityId>
+        <Description>Deals 58 to 64 Air damage. This damage is increased by 50% if used within 6s of a Critical Hit with a weapon attack.</Description>
+        <AddonId>A47B18A679826EB41</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>6.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.560000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>36</RequiredLevel>
+        <AbilityId>1788727016</AbilityId>
+        <Description>Deals 69 to 76 Air damage. This damage is increased by 50% if used within 6s of a Critical Hit with a weapon attack.</Description>
+        <AddonId>A6A9DCEE8435E3C02</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>6.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.560000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>42</RequiredLevel>
+        <AbilityId>59089223</AbilityId>
+        <Description>Deals 85 to 94 Air damage. This damage is increased by 50% if used within 6s of a Critical Hit with a weapon attack.</Description>
+        <AddonId>A0385A147898D21DB</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>6.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.560000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>48</RequiredLevel>
+        <AbilityId>2118841619</AbilityId>
+        <Description>Deals 110 to 122 Air damage. This damage is increased by 50% if used within 6s of a Critical Hit with a weapon attack.</Description>
+        <AddonId>A7E4AF513A8722101</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>6.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.560000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>52</RequiredLevel>
+        <AbilityId>428414027</AbilityId>
+        <Description>Deals 141 to 156 Air damage. This damage is increased by 50% if used within 6s of a Critical Hit with a weapon attack.</Description>
+        <AddonId>A1989144B78CC75F6</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>6.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.560000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>55</RequiredLevel>
+        <AbilityId>-67065288</AbilityId>
+        <Description>Deals 261 to 288 Air damage. This damage is increased by 50% if used within 6s of a Critical Hit with a weapon attack.</Description>
+        <AddonId>AFC00AA38618EE682</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>6.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.560000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>58</RequiredLevel>
+        <AbilityId>-69139900</AbilityId>
+        <Description>Deals 359 to 397 Air damage. This damage is increased by 50% if used within 6s of a Critical Hit with a weapon attack.</Description>
+        <AddonId>AFBE102445E886D8E</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>6.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.560000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>16</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Avalanche Strike</Name>
+      <Icon>slam2</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>16</RequiredLevel>
+        <AbilityId>1919758815</AbilityId>
+        <Description>Deals 42 to 46 Water damage to up to 5 enemies in front of the Cleric.</Description>
+        <AddonId>A726D31DF8377ECF2</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>22</RequiredLevel>
+        <AbilityId>884503153</AbilityId>
+        <Description>Deals 50 to 56 Water damage to up to 5 enemies in front of the Cleric.</Description>
+        <AddonId>A34B872712B2EF960</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>28</RequiredLevel>
+        <AbilityId>942833073</AbilityId>
+        <Description>Deals 59 to 65 Water damage to up to 5 enemies in front of the Cleric.</Description>
+        <AddonId>A38327DB1882393DC</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>34</RequiredLevel>
+        <AbilityId>903702165</AbilityId>
+        <Description>Deals 70 to 78 Water damage to up to 5 enemies in front of the Cleric.</Description>
+        <AddonId>A35DD66956C0B1046</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>40</RequiredLevel>
+        <AbilityId>985818079</AbilityId>
+        <Description>Deals 82 to 90 Water damage to up to 5 enemies in front of the Cleric.</Description>
+        <AddonId>A3AC263DF23E78C64</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>46</RequiredLevel>
+        <AbilityId>1223070225</AbilityId>
+        <Description>Deals 118 to 130 Water damage to up to 5 enemies in front of the Cleric.</Description>
+        <AddonId>A48E6921151729B6B</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>51</RequiredLevel>
+        <AbilityId>-87786288</AbilityId>
+        <Description>Deals 127 to 141 Water damage to up to 5 enemies in front of the Cleric.</Description>
+        <AddonId>AFAC47CD0AE40FF9A</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>54</RequiredLevel>
+        <AbilityId>-63729163</AbilityId>
+        <Description>Deals 231 to 255 Water damage to up to 5 enemies in front of the Cleric.</Description>
+        <AddonId>AFC3391F5484ADFC9</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>57</RequiredLevel>
+        <AbilityId>-60158122</AbilityId>
+        <Description>Deals 336 to 372 Water damage to up to 5 enemies in front of the Cleric.</Description>
+        <AddonId>AFC6A0F566A8EDE27</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>-25999713</AbilityId>
+        <Description>Deals 385 to 425 Water damage to up to 5 enemies in front of the Cleric.</Description>
+        <AddonId>AFE73469F968D3429</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>0</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Crushing Blow</Name>
+      <Icon>frost_hammer1</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>0</RequiredLevel>
+        <AbilityId>2094433281</AbilityId>
+        <Description>Deals 36 to 40 damage.</Description>
+        <AddonId>A7CD6840173E1C1DA</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>4</RequiredLevel>
+        <AbilityId>68299447</AbilityId>
+        <Description>Deals 43 to 47 damage.</Description>
+        <AddonId>A04122AB773C1BEE6</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>8</RequiredLevel>
+        <AbilityId>795641470</AbilityId>
+        <Description>Deals 51 to 57 damage.</Description>
+        <AddonId>A2F6C867E410C390F</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>12</RequiredLevel>
+        <AbilityId>2030705699</AbilityId>
+        <Description>Deals 65 to 71 damage.</Description>
+        <AddonId>A790A1C237879FABC</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>18</RequiredLevel>
+        <AbilityId>1288130923</AbilityId>
+        <Description>Deals 75 to 83 damage.</Description>
+        <AddonId>A4CC7516B63144C87</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>24</RequiredLevel>
+        <AbilityId>101972396</AbilityId>
+        <Description>Deals 88 to 98 damage.</Description>
+        <AddonId>A0613F9AC87422542</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>30</RequiredLevel>
+        <AbilityId>576632911</AbilityId>
+        <Description>Deals 103 to 113 damage.</Description>
+        <AddonId>A225EB84FC18945FE</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>36</RequiredLevel>
+        <AbilityId>1686068859</AbilityId>
+        <Description>Deals 123 to 137 damage.</Description>
+        <AddonId>A647F5E7B94F4EEA6</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>42</RequiredLevel>
+        <AbilityId>750980534</AbilityId>
+        <Description>Deals 152 to 168 damage.</Description>
+        <AddonId>A2CC30DB6E3474A8A</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>48</RequiredLevel>
+        <AbilityId>1129965941</AbilityId>
+        <Description>Deals 197 to 217 damage.</Description>
+        <AddonId>A4359E97531F4824B</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>11</Number>
+        <RequiredLevel>51</RequiredLevel>
+        <AbilityId>-45844285</AbilityId>
+        <Description>Deals 213 to 235 damage.</Description>
+        <AddonId>AFD4478C3CD95956B</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>12</Number>
+        <RequiredLevel>54</RequiredLevel>
+        <AbilityId>-80199202</AbilityId>
+        <Description>Deals 385 to 425 damage.</Description>
+        <AddonId>AFB3841DE5DC1B760</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>13</Number>
+        <RequiredLevel>57</RequiredLevel>
+        <AbilityId>-42423477</AbilityId>
+        <Description>Deals 560 to 620 damage.</Description>
+        <AddonId>AFD78AB4B52EFABE3</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>14</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>-29117703</AbilityId>
+        <Description>Deals 641 to 709 damage.</Description>
+        <AddonId>AFE43B2F95D865A6C</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+    </Ability>
+  </Abilities>
+</SoulTree>
+

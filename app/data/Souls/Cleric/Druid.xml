@@ -1,0 +1,2915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SoulTree calling="Cleric" name="Druid">
+  <Traits>
+    <Trait>
+      <Key>0</Key>
+      <Name>Guiding Hand</Name>
+      <Icon>spiritstrike3</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>0</MinimumPointsSpent>
+      <DisplayRow>0</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-96632483</AbilityId>
+          <Description></Description>
+          <AddonId>AFA3D815D36B5D5D8</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="5">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your damage done and your pet&apos;s damage done by 1%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your damage done and your pet&apos;s damage done by 2%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases your damage done and your pet&apos;s damage done by 3%.</Description>
+        </Rank>
+        <Rank>
+          <Points>4</Points>
+          <Description>Increases your damage done and your pet&apos;s damage done by 4%.</Description>
+        </Rank>
+        <Rank>
+          <Points>5</Points>
+          <Description>Increases your damage done and your pet&apos;s damage done by 5%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>1</Key>
+      <Name>Speak Softly</Name>
+      <Icon>sentinel-quietus</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>0</MinimumPointsSpent>
+      <DisplayRow>0</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-18885620</AbilityId>
+          <Description></Description>
+          <AddonId>AFEDFD40C1DCBC9A3</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="5">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your Wisdom by 2%. Reduces your pets&apos; damage taken by 1%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your Wisdom by 4%. Reduces your pets&apos; damage taken by 2%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases your Wisdom by 6%. Reduces your pets&apos; damage taken by 3%.</Description>
+        </Rank>
+        <Rank>
+          <Points>4</Points>
+          <Description>Increases your Wisdom by 8%. Reduces your pets&apos; damage taken by 4%.</Description>
+        </Rank>
+        <Rank>
+          <Points>5</Points>
+          <Description>Increases your Wisdom by 10%. Reduces your pets&apos; damage taken by 5%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>2</Key>
+      <Name>Heed the Call</Name>
+      <Icon>releaseheat4a</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>5</MinimumPointsSpent>
+      <DisplayRow>1</DisplayRow>
+      <DisplayColumn>0</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>127127256</AbilityId>
+          <Description></Description>
+          <AddonId>A0793CED8092316C0</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="2">
+        <Rank>
+          <Points>1</Points>
+          <Description>Reduces the cast time of your Summon spells by 3s.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Reduces the cast time of your Summon spells by 6s.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>3</Key>
+      <Name>Trickster&apos;s Bolt</Name>
+      <Icon>tactician_curative_bolt</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>5</MinimumPointsSpent>
+      <DisplayRow>1</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-82411169</AbilityId>
+          <Description>Deals 46 to 51 Life damage.</Description>
+          <AddonId>AFB16815F5FB12750</AddonId>
+          <IsPassive>False</IsPassive>
+          <MaxRange>30.000000</MaxRange>
+          <CostManaPercent>7.500000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>4</Key>
+      <Name>Carry a Big Stick</Name>
+      <Icon>2h_staff_042</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>5</MinimumPointsSpent>
+      <DisplayRow>1</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your Fervent Strike&apos;s damage by 5%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your Fervent Strike&apos;s damage by 10%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases your Fervent Strike&apos;s damage by 15%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>5</Key>
+      <Name>Mercurial</Name>
+      <Icon>spiritblast1</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>5</MinimumPointsSpent>
+      <DisplayRow>1</DisplayRow>
+      <DisplayColumn>3</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-3914434</AbilityId>
+          <Description></Description>
+          <AddonId>AFFC4453E4AF41511</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="5">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your damage done with instant abilities by 2%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your damage done with instant abilities by 4%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases your damage done with instant abilities by 6%.</Description>
+        </Rank>
+        <Rank>
+          <Points>4</Points>
+          <Description>Increases your damage done with instant abilities by 8%.</Description>
+        </Rank>
+        <Rank>
+          <Points>5</Points>
+          <Description>Increases your damage done with instant abilities by 10%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>6</Key>
+      <Name>Boundless Growth</Name>
+      <Icon>barbedtrap1</Icon>
+      <BendType>VerticalToHorizontal</BendType>
+      <MinimumPointsSpent>10</MinimumPointsSpent>
+      <DisplayRow>2</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>1226935703</AbilityId>
+          <Description></Description>
+          <AddonId>A49218D975B112B19</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases damage done with Life Surge by 5%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases damage done with Life Surge by 10%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases damage done with Life Surge by 15%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>7</Key>
+      <Name>Brutal Impact</Name>
+      <Icon>sovereign_hammer_01</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>10</MinimumPointsSpent>
+      <DisplayRow>2</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>763596759</AbilityId>
+          <Description></Description>
+          <AddonId>A2D838FD768E9A615</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="5">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases you and your pet&apos;s Physical damage done by 2%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases you and your pet&apos;s Physical damage done by 4%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases you and your pet&apos;s Physical damage done by 6%.</Description>
+        </Rank>
+        <Rank>
+          <Points>4</Points>
+          <Description>Increases you and your pet&apos;s Physical damage done by 8%.</Description>
+        </Rank>
+        <Rank>
+          <Points>5</Points>
+          <Description>Increases you and your pet&apos;s Physical damage done by 10%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>8</Key>
+      <Name>Slumber</Name>
+      <Icon>ressurect4bl</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>10</MinimumPointsSpent>
+      <DisplayRow>2</DisplayRow>
+      <DisplayColumn>3</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>1662193998</AbilityId>
+          <Description>Puts the enemy to Sleep for 10s.</Description>
+          <AddonId>A6313114E97439373</AddonId>
+          <IsPassive>False</IsPassive>
+          <Cooldown>30.000002</Cooldown>
+          <MaxRange>30.000000</MaxRange>
+          <CostManaPercent>4.500000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+          <Duration>10.000000</Duration>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>9</Key>
+      <Name>Grim Silence</Name>
+      <Icon>druid-grim_silence</Icon>
+      <BendType>VerticalToHorizontal</BendType>
+      <MinimumPointsSpent>15</MinimumPointsSpent>
+      <DisplayRow>3</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>1473690023</AbilityId>
+          <Description>Interrupts and Debilitates the enemy for 5s.</Description>
+          <AddonId>A57D6B9A76FDC3CA1</AddonId>
+          <IsPassive>False</IsPassive>
+          <Cooldown>30.000002</Cooldown>
+          <MaxRange>30.000000</MaxRange>
+          <CostManaPercent>4.500000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>10</Key>
+      <Name>Spirit of the Wood</Name>
+      <Icon>shockwave2</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>15</MinimumPointsSpent>
+      <DisplayRow>3</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-8010813</AbilityId>
+          <Description></Description>
+          <AddonId>AFF85C3C33FF3FBCA</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="5">
+        <Rank>
+          <Points>1</Points>
+          <Description>Your weapon attacks increase your pet&apos;s Spell Crit by 3% for 5s or until your pet Critically Hits. Max 3 stacks.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Your weapon attacks increase your pet&apos;s Spell Crit by 6% for 5s or until your pet Critically Hits. Max 3 stacks.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Your weapon attacks increase your pet&apos;s Spell Crit by 9% for 5s or until your pet Critically Hits. Max 3 stacks.</Description>
+        </Rank>
+        <Rank>
+          <Points>4</Points>
+          <Description>Your weapon attacks increase your pet&apos;s Spell Crit by 12% for 5s or until your pet Critically Hits. Max 3 stacks.</Description>
+        </Rank>
+        <Rank>
+          <Points>5</Points>
+          <Description>Your weapon attacks increase your pet&apos;s Spell Crit by 15% for 5s or until your pet Critically Hits. Max 3 stacks.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>11</Key>
+      <Name>Summon: Greater Satyr Protector</Name>
+      <Icon>staggeringshot3a</Icon>
+      <BendType>VerticalToHorizontal</BendType>
+      <MinimumPointsSpent>20</MinimumPointsSpent>
+      <DisplayRow>4</DisplayRow>
+      <DisplayColumn>0</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-36140463</AbilityId>
+          <Description>Summons a Greater Satyr Protector (max level 27). Best used for Tanking.</Description>
+          <AddonId>AFDD88A51A7170A47</AddonId>
+          <IsPassive>False</IsPassive>
+          <CostManaPercent>4.500000</CostManaPercent>
+          <CastTime>8.000000</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>12</Key>
+      <Name>Savage Force</Name>
+      <Icon>spiritoflion3</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>20</MinimumPointsSpent>
+      <DisplayRow>4</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>333949741</AbilityId>
+          <Description></Description>
+          <AddonId>A13E7AB2D4910B270</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases you and your pet&apos;s non-Physical damage done by 3%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases you and your pet&apos;s non-Physical damage done by 6%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases you and your pet&apos;s non-Physical damage done by 9%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>13</Key>
+      <Name>Pierce the Veil</Name>
+      <Icon>shadow_shift_c</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>20</MinimumPointsSpent>
+      <DisplayRow>4</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+      </Abilities>
+      <Ranks count="2">
+        <Rank>
+          <Points>1</Points>
+          <Description>Your Fae Step increases your movement speed by 25% for 5s.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Your Fae Step increases your movement speed by 50% for 5s.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>14</Key>
+      <Name>Essence Strike</Name>
+      <Icon>smite4a</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>25</MinimumPointsSpent>
+      <DisplayRow>5</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>1240865605</AbilityId>
+          <Description>Deals 183 to 202 Life damage. Refreshes the Cleric&apos;s active Eruption of Life on the enemy.</Description>
+          <AddonId>A49F61B45AAD84F4E</AddonId>
+          <IsPassive>False</IsPassive>
+          <RequiresWeapon>Melee Weapon</RequiresWeapon>
+          <Cooldown>10.000000</Cooldown>
+          <MaxRange>3.000000</MaxRange>
+          <CostManaPercent>7.500000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+          <PowerStatCoefficient effect="0" action="0">1.600000</PowerStatCoefficient>
+          <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>15</Key>
+      <Name>Life Touched</Name>
+      <Icon>sanction_heretic</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>25</MinimumPointsSpent>
+      <DisplayRow>5</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>725588010</AbilityId>
+          <Description></Description>
+          <AddonId>A2B3F982A52710B74</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="2">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your Spell Power and your pet&apos;s Spell Power by 3%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your Spell Power and your pet&apos;s Spell Power by 6%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>16</Key>
+      <Name>Curious Precision</Name>
+      <Icon>exposeweakness3</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>25</MinimumPointsSpent>
+      <DisplayRow>5</DisplayRow>
+      <DisplayColumn>3</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-38262680</AbilityId>
+          <Description></Description>
+          <AddonId>AFDB828683EE86108</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your chance to Critically Hit by 3%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your chance to Critically Hit by 6%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Increases your chance to Critically Hit by 9%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>17</Key>
+      <Name>Overproliferation</Name>
+      <Icon>untangle</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>30</MinimumPointsSpent>
+      <DisplayRow>6</DisplayRow>
+      <DisplayColumn>0</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-44220939</AbilityId>
+          <Description></Description>
+          <AddonId>AFD5D3DF530895643</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="2">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases the effect of Spell Power on your Eruption of Life by 15% and the number of times it can trigger additional damage by 2.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases the effect of Spell Power on your Eruption of Life by 30% and the number of times it can trigger additional damage by 4.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>18</Key>
+      <Name>Intensity of Purpose</Name>
+      <Icon>spiritofturtle3</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>30</MinimumPointsSpent>
+      <DisplayRow>6</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Increases your pet&apos;s damage done by 5%. Increases your pet&apos;s&apos; healing done by 10%. Reduces your pet&apos;s damage taken by 5%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your pet&apos;s damage done by 10%. Increases your pet&apos;s&apos; healing done by 20%. Reduces your pet&apos;s damage taken by 10%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Increases your pet&apos;s damage done by 15%. Increases your pet&apos;s&apos; healing done by 30%. Reduces your pet&apos;s damage taken by 15%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>19</Key>
+      <Name>Summon: Satyr Destroyer</Name>
+      <Icon>druid-summon_satyr</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>30</MinimumPointsSpent>
+      <DisplayRow>6</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>550912595</AbilityId>
+          <Description>Summons a Greater Satyr Destroyer (max level 37). Best used for Melee Damage.</Description>
+          <AddonId>A20D64253C28AC0D6</AddonId>
+          <IsPassive>False</IsPassive>
+          <CostManaPercent>4.500000</CostManaPercent>
+          <CastTime>8.000000</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>20</Key>
+      <Name>Summon: Greater Faerie Seer</Name>
+      <Icon>druid_greater_faerie_seer_b</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>35</MinimumPointsSpent>
+      <DisplayRow>7</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-38457861</AbilityId>
+          <Description>Summons a Greater Faerie Seer (max level 42). Best used for Ranged Damage.</Description>
+          <AddonId>AFDB52DFBA36C7982</AddonId>
+          <IsPassive>False</IsPassive>
+          <CostManaPercent>4.500000</CostManaPercent>
+          <CastTime>8.000000</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>21</Key>
+      <Name>Teamwork</Name>
+      <Icon>layonhands3</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>35</MinimumPointsSpent>
+      <DisplayRow>7</DisplayRow>
+      <DisplayColumn>2</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>-59306828</AbilityId>
+          <Description></Description>
+          <AddonId>AFC770CB41729FB13</AddonId>
+          <IsPassive>True</IsPassive>
+          <CastTime>Instant</CastTime>
+        </Ability>
+      </Abilities>
+      <Ranks count="3">
+        <Rank>
+          <Points>1</Points>
+          <Description>Your Combined Effort increases damage taken from the Cleric and the Cleric&apos;s pet by an additional 5%.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Your Combined Effort increases damage taken from the Cleric and the Cleric&apos;s pet by an additional 10%.</Description>
+        </Rank>
+        <Rank>
+          <Points>3</Points>
+          <Description>Your Combined Effort increases damage taken from the Cleric and the Cleric&apos;s pet by an additional 15%.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>22</Key>
+      <Name>Celerity</Name>
+      <Icon>combat_pose1</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>35</MinimumPointsSpent>
+      <DisplayRow>7</DisplayRow>
+      <DisplayColumn>3</DisplayColumn>
+      <Abilities>
+      </Abilities>
+      <Ranks count="2">
+        <Rank>
+          <Points>1</Points>
+          <Description>Reduces your pets&apos; Global Cooldown and cast times by 0.25s.</Description>
+        </Rank>
+        <Rank>
+          <Points>2</Points>
+          <Description>Reduces your pets&apos; Global Cooldown and cast times by 0.5s.</Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+    <Trait>
+      <Key>23</Key>
+      <Name>Resounding Blow</Name>
+      <Icon>holysweep4d</Icon>
+      <BendType>HorizontalToVertical</BendType>
+      <MinimumPointsSpent>40</MinimumPointsSpent>
+      <DisplayRow>8</DisplayRow>
+      <DisplayColumn>1</DisplayColumn>
+      <Abilities>
+        <Ability>
+          <AbilityId>1640277529</AbilityId>
+          <Description>Deals 295 to 326 damage. Increases damage done by the Cleric&apos;s next damaging ability, within 10s, by 50%.</Description>
+          <AddonId>A61C4A619989EAE62</AddonId>
+          <IsPassive>False</IsPassive>
+          <RequiresWeapon>Melee Weapon</RequiresWeapon>
+          <Cooldown>15.000001</Cooldown>
+          <MaxRange>3.000000</MaxRange>
+          <CostManaPercent>7.500000</CostManaPercent>
+          <CastTime>Instant</CastTime>
+          <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+          <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+        </Ability>
+      </Abilities>
+      <Ranks count="1">
+        <Rank>
+          <Points>1</Points>
+          <Description></Description>
+        </Rank>
+      </Ranks>
+    </Trait>
+  </Traits>
+  <Abilities>
+    <Ability>
+      <MinimumPointsInSoul>24</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Peace of the Forest</Name>
+      <Icon>generic_ability_011</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>24</RequiredLevel>
+        <AbilityId>-95481715</AbilityId>
+        <Description>Restores 7% mana. Consumes 7% health.</Description>
+        <AddonId>AFA4F108DB3F3CA31</AddonId>
+        <IsPassive>False</IsPassive>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="1">0.000000E+000</PowerStatCoefficient>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>20</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Thorns of Ire</Name>
+      <Icon>venomoustrap1a</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>20</RequiredLevel>
+        <AbilityId>-90791839</AbilityId>
+        <Description>Causes the enemy to take 80 additional damage when hit for 20s. Each attacker may trigger this once every 3s.</Description>
+        <AddonId>AFA96A06177D454AD</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>26</RequiredLevel>
+        <AbilityId>-96747635</AbilityId>
+        <Description>Causes the enemy to take 115 additional damage when hit for 20s. Each attacker may trigger this once every 3s.</Description>
+        <AddonId>AFA3BBF8D52039FCD</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>32</RequiredLevel>
+        <AbilityId>-83074502</AbilityId>
+        <Description>Causes the enemy to take 175 additional damage when hit for 20s. Each attacker may trigger this once every 3s.</Description>
+        <AddonId>AFB0C623A39B2398F</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>38</RequiredLevel>
+        <AbilityId>-50602504</AbilityId>
+        <Description>Causes the enemy to take 250 additional damage when hit for 20s. Each attacker may trigger this once every 3s.</Description>
+        <AddonId>AFCFBDDF8916358F3</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>44</RequiredLevel>
+        <AbilityId>-88820523</AbilityId>
+        <Description>Causes the enemy to take 370 additional damage when hit for 20s. Each attacker may trigger this once every 3s.</Description>
+        <AddonId>AFAB4B4D54CB88CDB</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>50</RequiredLevel>
+        <AbilityId>-19817900</AbilityId>
+        <Description>Causes the enemy to take 530 additional damage when hit for 20s. Each attacker may trigger this once every 3s.</Description>
+        <AddonId>AFED19A547B41A384</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>53</RequiredLevel>
+        <AbilityId>-42946769</AbilityId>
+        <Description>Causes the enemy to take 900 additional damage when hit for 20s. Each attacker may trigger this once every 3s.</Description>
+        <AddonId>AFD70AF2F397E497F</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>56</RequiredLevel>
+        <AbilityId>-26250517</AbilityId>
+        <Description>Causes the enemy to take 1200 additional damage when hit for 20s. Each attacker may trigger this once every 3s.</Description>
+        <AddonId>AFE6F72EB80B970AC</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>59</RequiredLevel>
+        <AbilityId>-60895866</AbilityId>
+        <Description>Causes the enemy to take 1500 additional damage when hit for 20s. Each attacker may trigger this once every 3s.</Description>
+        <AddonId>AFC5ECD86291B482A</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>6</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Trickster&apos;s Bolt</Name>
+      <Icon>tactician_curative_bolt</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>6</RequiredLevel>
+        <AbilityId>-82411169</AbilityId>
+        <Description>Deals 46 to 51 Life damage.</Description>
+        <AddonId>AFB16815F5FB12750</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>12</RequiredLevel>
+        <AbilityId>-61089578</AbilityId>
+        <Description>Deals 64 to 71 Life damage.</Description>
+        <AddonId>AFC5BD8D64F51BDEB</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>18</RequiredLevel>
+        <AbilityId>-31802220</AbilityId>
+        <Description>Deals 74 to 81 Life damage.</Description>
+        <AddonId>AFE1ABC949C25E2AF</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>24</RequiredLevel>
+        <AbilityId>-58863796</AbilityId>
+        <Description>Deals 86 to 95 Life damage.</Description>
+        <AddonId>AFC7DCF4CE2598035</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>30</RequiredLevel>
+        <AbilityId>-94936337</AbilityId>
+        <Description>Deals 97 to 108 Life damage.</Description>
+        <AddonId>AFA5762EF4BD93D02</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>36</RequiredLevel>
+        <AbilityId>-82230475</AbilityId>
+        <Description>Deals 114 to 125 Life damage.</Description>
+        <AddonId>AFB194335C9EA3966</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>42</RequiredLevel>
+        <AbilityId>-53376311</AbilityId>
+        <Description>Deals 136 to 151 Life damage.</Description>
+        <AddonId>AFCD18AC9E70AB1C0</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>48</RequiredLevel>
+        <AbilityId>-2598292</AbilityId>
+        <Description>Deals 174 to 193 Life damage.</Description>
+        <AddonId>AFFD85A6C952DA728</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>52</RequiredLevel>
+        <AbilityId>-29646414</AbilityId>
+        <Description>Deals 241 to 266 Life damage.</Description>
+        <AddonId>AFE3BA1B28DFEE9DD</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>55</RequiredLevel>
+        <AbilityId>-94884099</AbilityId>
+        <Description>Deals 417 to 460 Life damage.</Description>
+        <AddonId>AFA582EFD55915E7F</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>11</Number>
+        <RequiredLevel>58</RequiredLevel>
+        <AbilityId>-4980853</AbilityId>
+        <Description>Deals 559 to 618 Life damage.</Description>
+        <AddonId>AFFB3FF8B55DC0E7A</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>36</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Aid of the Forest</Name>
+      <Icon>beastmaster_primal_recovery_01</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>36</RequiredLevel>
+        <AbilityId>-82340978</AbilityId>
+        <Description>Causes the Cleric&apos;s pet&apos;s damage and healing abilities to restore health based on their Spell Power to both the Cleric and the pet.</Description>
+        <AddonId>AFB17938E9CCF6C5C</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>0</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Summon: Satyr Protector</Name>
+      <Icon>druid_summon_satyr_a</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>0</RequiredLevel>
+        <AbilityId>-74881356</AbilityId>
+        <Description>Summons a Satyr Protector (max level 4). Best used for Tanking.</Description>
+        <AddonId>AFB8966B46F61921F</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>4</RequiredLevel>
+        <AbilityId>-76189276</AbilityId>
+        <Description>Summons a Satyr Protector (max 8). Best used for Tanking.</Description>
+        <AddonId>AFB7571A4A84CE7E8</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>8</RequiredLevel>
+        <AbilityId>-43253448</AbilityId>
+        <Description>Summons a Satyr Protector (max level 12). Best used for Tanking.</Description>
+        <AddonId>AFD6C0138BF6B7D20</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>12</RequiredLevel>
+        <AbilityId>-4704793</AbilityId>
+        <Description>Summons a Satyr Protector (max level 18). Best used for Tanking.</Description>
+        <AddonId>AFFB835E7B989DEC2</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>18</RequiredLevel>
+        <AbilityId>-61032315</AbilityId>
+        <Description>Summons a Satyr Protector (max level 24). Best used for Tanking.</Description>
+        <AddonId>AFC5CB8856656EB76</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>24</RequiredLevel>
+        <AbilityId>-84407751</AbilityId>
+        <Description>Summons a Satyr Protector (max level 30). Best used for Tanking.</Description>
+        <AddonId>AFAF80A3999D04DBF</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>51</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Spirit of Asphodel</Name>
+      <Icon>coda_of_wrath</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>50</RequiredLevel>
+        <AbilityId>-72634708</AbilityId>
+        <Description>Causes the Cleric&apos;s pet&apos;s damaging abilities to deal additional Life damage based on their Spell Power.</Description>
+        <AddonId>AFBABAEACD3726B23</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>61</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Fae Mimicry</Name>
+      <Icon>beastmaster_shared_bonds_c</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>-59428155</AbilityId>
+        <Description>Causes the Cleric&apos;s next 4 single target damaging abilities to deal additional Life damage equal to their initial damage. Does not affect damage over time effects. Lasts 15s.</Description>
+        <AddonId>AFC7532C5F377D933</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>44</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Spirit of Upheaval</Name>
+      <Icon>riftblade-earth_burst_a</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>44</RequiredLevel>
+        <AbilityId>-46018176</AbilityId>
+        <Description>Causes the Cleric&apos;s pet&apos;s damaging abilities to deal additional Earth damage based on their Spell Power to up to 5 enemies.</Description>
+        <AddonId>AFD41D180BF92326F</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>5.400000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>36</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Summon: Greater Faerie Seer</Name>
+      <Icon>druid_greater_faerie_seer_b</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>36</RequiredLevel>
+        <AbilityId>-38457861</AbilityId>
+        <Description>Summons a Greater Faerie Seer (max level 42). Best used for Ranged Damage.</Description>
+        <AddonId>AFDB52DFBA36C7982</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>42</RequiredLevel>
+        <AbilityId>-7594731</AbilityId>
+        <Description>Summons a Greater Faerie Seer (max level 48). Best used for Ranged Damage.</Description>
+        <AddonId>AFF8C1D15402E13DC</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>48</RequiredLevel>
+        <AbilityId>-88217957</AbilityId>
+        <Description>Summons a Greater Faerie Seer (max level 51). Best used for Ranged Damage.</Description>
+        <AddonId>AFABDE69B9CE35469</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>51</RequiredLevel>
+        <AbilityId>-74876749</AbilityId>
+        <Description>Summons a Greater Faerie Seer (max level 54). Best used for Ranged Damage.</Description>
+        <AddonId>AFB8978B3B61985E0</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>54</RequiredLevel>
+        <AbilityId>-7772258</AbilityId>
+        <Description>Summons a Greater Faerie Seer (max level 57). Best used for Ranged Damage.</Description>
+        <AddonId>AFF89679EC096078D</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>57</RequiredLevel>
+        <AbilityId>-41871426</AbilityId>
+        <Description>Summons a Greater Faerie Seer (max level 59). Best used for Ranged Damage.</Description>
+        <AddonId>AFD8117BE7F2D1302</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>-29838324</AbilityId>
+        <Description>Summons a Greater Faerie Seer. Best used for Ranged Damage.</Description>
+        <AddonId>AFE38B40C78A587AA</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>21</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Summon: Greater Satyr Protector</Name>
+      <Icon>druid_summon_greater_satyr</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>21</RequiredLevel>
+        <AbilityId>-36140463</AbilityId>
+        <Description>Summons a Greater Satyr Protector (max level 27). Best used for Tanking.</Description>
+        <AddonId>AFDD88A51A7170A47</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>27</RequiredLevel>
+        <AbilityId>-65184869</AbilityId>
+        <Description>Summons a Greater Satyr Protector (max level 33). Best used for Tanking.</Description>
+        <AddonId>AFC1D5B9B0CE02F88</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>33</RequiredLevel>
+        <AbilityId>-7094872</AbilityId>
+        <Description>Summons a Greater Satyr Protector (max level 39). Best used for Tanking.</Description>
+        <AddonId>AFF93BDA81D7DF0F7</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>39</RequiredLevel>
+        <AbilityId>-88957491</AbilityId>
+        <Description>Summons a Greater Satyr Protector (max level 45). Best used for Tanking.</Description>
+        <AddonId>AFAB29DCDFF9B1EF8</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>45</RequiredLevel>
+        <AbilityId>-9502158</AbilityId>
+        <Description>Summons a Greater Satyr Protector (max level 50). Best used for Tanking.</Description>
+        <AddonId>AFF6F0232408ECF64</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>50</RequiredLevel>
+        <AbilityId>-14091865</AbilityId>
+        <Description>Summons a Greater Satyr Protector (max level 53). Best used for Tanking.</Description>
+        <AddonId>AFF28F9A715BB955B</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>53</RequiredLevel>
+        <AbilityId>-22427980</AbilityId>
+        <Description>Summons a Greater Satyr Protector (max level 56). Best used for Tanking.</Description>
+        <AddonId>AFEA9C6B4C2772C3A</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>56</RequiredLevel>
+        <AbilityId>-85716881</AbilityId>
+        <Description>Summons a Greater Satyr Protector (max level 59). Best used for Tanking.</Description>
+        <AddonId>AFAE4106FC7F03D16</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>59</RequiredLevel>
+        <AbilityId>-72754377</AbilityId>
+        <Description>Summons a Greater Satyr Protector. Best used for Tanking.</Description>
+        <AddonId>AFBA9DB373FDBAAD9</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>54</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Fae Extraction</Name>
+      <Icon>redirect1b</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>54</RequiredLevel>
+        <AbilityId>-29466448</AbilityId>
+        <Description>Teleports the enemy to the Cleric.</Description>
+        <AddonId>AFE3E60B06C638AAC</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>58</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Subtlety</Name>
+      <Icon>riftstalker_toughened_soul_01_a</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>57</RequiredLevel>
+        <AbilityId>-16864272</AbilityId>
+        <Description>Allows the Cleric&apos;s and the Cleric&apos;s pet&apos;s damaging abilities to ignore 20% of their targets&apos; Armor and Resistance. Lasts 1h.</Description>
+        <AddonId>AFEFEABF05FB02DA1</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>3600.000000</Duration>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>48</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Crushing Force</Name>
+      <Icon>holysmite3</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>48</RequiredLevel>
+        <AbilityId>-15699444</AbilityId>
+        <Description>Deals 459 Earth damage over 15s.</Description>
+        <AddonId>AFF10720C8612F0FD</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>52</RequiredLevel>
+        <AbilityId>-71542775</AbilityId>
+        <Description>Deals 634 Earth damage over 15s.</Description>
+        <AddonId>AFBBC580960011EB3</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>55</RequiredLevel>
+        <AbilityId>-8885673</AbilityId>
+        <Description>Deals 1099 Earth damage over 15s.</Description>
+        <AddonId>AFF786A575E19D0C2</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>58</RequiredLevel>
+        <AbilityId>-94943451</AbilityId>
+        <Description>Deals 1473 Earth damage over 15s.</Description>
+        <AddonId>AFA5747258608C43C</AddonId>
+        <IsPassive>False</IsPassive>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>15.000000</Duration>
+        <Interval>1.500000</Interval>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <DamageMultiplier effect="0" action="0">0.100000</DamageMultiplier>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>0</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Friend of the Weald</Name>
+      <Icon>spiritoftree1a</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>0</RequiredLevel>
+        <AbilityId>-15627680</AbilityId>
+        <Description></Description>
+        <AddonId>AFF118A604A9774EA</AddonId>
+        <IsPassive>True</IsPassive>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>16</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Through Step</Name>
+      <Icon>silent_footsteps_01_b</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>16</RequiredLevel>
+        <AbilityId>-5759198</AbilityId>
+        <Description>Causes Fae Step to teleport behind the enemy.</Description>
+        <AddonId>AFFA81F229149D1E7</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>12</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Wild Strike</Name>
+      <Icon>slam3a</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>12</RequiredLevel>
+        <AbilityId>136261040</AbilityId>
+        <Description>Deals 38 to 42 damage to up to 5 enemies.</Description>
+        <AddonId>A081F2DB089804D28</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>18</RequiredLevel>
+        <AbilityId>1081694984</AbilityId>
+        <Description>Deals 45 to 49 damage to up to 5 enemies.</Description>
+        <AddonId>A40795B085E749F7C</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>24</RequiredLevel>
+        <AbilityId>528347272</AbilityId>
+        <Description>Deals 53 to 59 damage to up to 5 enemies.</Description>
+        <AddonId>A1F7DF088771030D3</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>30</RequiredLevel>
+        <AbilityId>442223202</AbilityId>
+        <Description>Deals 62 to 68 damage to up to 5 enemies.</Description>
+        <AddonId>A1A5BCA627CD67149</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>36</RequiredLevel>
+        <AbilityId>158764258</AbilityId>
+        <Description>Deals 74 to 82 damage to up to 5 enemies.</Description>
+        <AddonId>A09768CE23CF8C3A7</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>42</RequiredLevel>
+        <AbilityId>1776678028</AbilityId>
+        <Description>Deals 91 to 101 damage to up to 5 enemies.</Description>
+        <AddonId>A69E5F48C3E9C4A37</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>48</RequiredLevel>
+        <AbilityId>634747664</AbilityId>
+        <Description>Deals 118 to 130 damage to up to 5 enemies.</Description>
+        <AddonId>A25D57B10A9B5EE11</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>52</RequiredLevel>
+        <AbilityId>-13030825</AbilityId>
+        <Description>Deals 151 to 167 damage to up to 5 enemies.</Description>
+        <AddonId>AFF392A576F63F439</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>55</RequiredLevel>
+        <AbilityId>-62663849</AbilityId>
+        <Description>Deals 280 to 310 damage to up to 5 enemies.</Description>
+        <AddonId>AFC43D3577E3A3B7A</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>58</RequiredLevel>
+        <AbilityId>-54017788</AbilityId>
+        <Description>Deals 385 to 425 damage to up to 5 enemies.</Description>
+        <AddonId>AFCC7C104969332E2</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <CostManaPercent>9.000000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Radius>7.000000</Radius>
+        <MaxAffected>5</MaxAffected>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>8</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Eruption of Life</Name>
+      <Icon>barbedtrap1</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>8</RequiredLevel>
+        <AbilityId>303032785</AbilityId>
+        <Description>Deals 26 to 29 Life damage. Life Surge deals an additional 10 to 11 Life damage, and reduces the cooldown of Resounding Blow by 1.5s, each time the Cleric hits the enemy over the next 15s, up to 5 times. </Description>
+        <AddonId>A120FE9D14C9C4755</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>14</RequiredLevel>
+        <AbilityId>1119477664</AbilityId>
+        <Description>Deals 33 to 37 Life damage. Life Surge deals an additional 13 to 14 Life damage, and reduces the cooldown of Resounding Blow by 1.5s, each time the Cleric hits the enemy over the next 15s, up to 5 times. </Description>
+        <AddonId>A42B9DFA0EA36A02A</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>20</RequiredLevel>
+        <AbilityId>123449966</AbilityId>
+        <Description>Deals 39 to 43 Life damage. Life Surge deals an additional 15 to 17 Life damage, and reduces the cooldown of Resounding Blow by 1.5s, each time the Cleric hits the enemy over the next 15s, up to 5 times. </Description>
+        <AddonId>A075BB26EC0A5F9AD</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>26</RequiredLevel>
+        <AbilityId>2035177302</AbilityId>
+        <Description>Deals 47 to 52 Life damage. Life Surge deals an additional 18 to 20 Life damage, and reduces the cooldown of Resounding Blow by 1.5s, each time the Cleric hits the enemy over the next 15s, up to 5 times. </Description>
+        <AddonId>A794E5756DFCBFC50</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>32</RequiredLevel>
+        <AbilityId>1918904508</AbilityId>
+        <Description>Deals 55 to 61 Life damage. Life Surge deals an additional 21 to 23 Life damage, and reduces the cooldown of Resounding Blow by 1.5s, each time the Cleric hits the enemy over the next 15s, up to 5 times. </Description>
+        <AddonId>A726028BC8DF72691</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>38</RequiredLevel>
+        <AbilityId>2101030053</AbilityId>
+        <Description>Deals 66 to 73 Life damage. Life Surge deals an additional 23 to 26 Life damage, and reduces the cooldown of Resounding Blow by 1.5s, each time the Cleric hits the enemy over the next 15s, up to 5 times. </Description>
+        <AddonId>A7D3B2CA58736E4C1</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>44</RequiredLevel>
+        <AbilityId>-53363085</AbilityId>
+        <Description>Deals 87 to 96 Life damage. Life Surge deals an additional 31 to 34 Life damage, and reduces the cooldown of Resounding Blow by 1.5s, each time the Cleric hits the enemy over the next 15s, up to 5 times. </Description>
+        <AddonId>AFCD1BE7385C8A41C</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>50</RequiredLevel>
+        <AbilityId>-74053849</AbilityId>
+        <Description>Deals 98 to 108 Life damage. Life Surge deals an additional 35 to 39 Life damage, and reduces the cooldown of Resounding Blow by 1.5s, each time the Cleric hits the enemy over the next 15s, up to 5 times. </Description>
+        <AddonId>AFB9607278D550915</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>53</RequiredLevel>
+        <AbilityId>-40173021</AbilityId>
+        <Description>Deals 157 to 174 Life damage. Life Surge deals an additional 58 to 64 Life damage, and reduces the cooldown of Resounding Blow by 1.5s, each time the Cleric hits the enemy over the next 15s, up to 5 times. </Description>
+        <AddonId>AFD9B022384F61408</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>56</RequiredLevel>
+        <AbilityId>-30465779</AbilityId>
+        <Description>Deals 280 to 310 Life damage. Life Surge deals an additional 98 to 109 Life damage, and reduces the cooldown of Resounding Blow by 1.5s, each time the Cleric hits the enemy over the next 15s, up to 5 times. </Description>
+        <AddonId>AFE2F210D6212B520</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>11</Number>
+        <RequiredLevel>59</RequiredLevel>
+        <AbilityId>-90277507</AbilityId>
+        <Description>Deals 320 to 354 Life damage. Life Surge deals an additional 98 to 109 Life damage, and reduces the cooldown of Resounding Blow by 1.5s, each time the Cleric hits the enemy over the next 15s, up to 5 times. </Description>
+        <AddonId>AFA9E797D39F4C615</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">0.500000</PowerStatCoefficient>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>2</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Shield of Oak</Name>
+      <Icon>vitalizingshield1b</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>2</RequiredLevel>
+        <AbilityId>369850818</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 87 damage. Increases movement speed by 5%. Lasts 30s.</Description>
+        <AddonId>A160B79C27B5567B9</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>6</RequiredLevel>
+        <AbilityId>822631546</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 182 damage. Increases movement speed by 5%. Lasts 30s.</Description>
+        <AddonId>A31085C7A9D2B505F</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>10</RequiredLevel>
+        <AbilityId>1227309948</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 314 damage. Increases movement speed by 5%. Lasts 30s.</Description>
+        <AddonId>A4927437C754392B6</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>14</RequiredLevel>
+        <AbilityId>276025462</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 397 damage. Increases movement speed by 5%. Lasts 30s.</Description>
+        <AddonId>A1073D07641FBABD4</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>20</RequiredLevel>
+        <AbilityId>1809854585</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 487 damage. Increases movement speed by 5%. Lasts 30s.</Description>
+        <AddonId>A6BE03079BC300647</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>26</RequiredLevel>
+        <AbilityId>623188996</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 542 damage. Increases movement speed by 5%. Lasts 30s.</Description>
+        <AddonId>A25251C04CE6D700F</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>32</RequiredLevel>
+        <AbilityId>1123177379</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 614 damage. Increases movement speed by 5%. Lasts 30s.</Description>
+        <AddonId>A42F253A39468057F</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>38</RequiredLevel>
+        <AbilityId>1888467445</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 641 damage. Increases movement speed by 5%. Lasts 30s.</Description>
+        <AddonId>A708FB9F5E879691E</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>44</RequiredLevel>
+        <AbilityId>277077086</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 721 damage. Increases movement speed by 5%. Lasts 30s.</Description>
+        <AddonId>A1083DC5E555AEA0A</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>50</RequiredLevel>
+        <AbilityId>-2689641</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 756 damage. Increases movement speed by 5%. Lasts 30s.</Description>
+        <AddonId>AFFD6F597A06CD2A3</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>11</Number>
+        <RequiredLevel>53</RequiredLevel>
+        <AbilityId>-16610949</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 871 damage. Increases movement speed by 5%. Lasts 30s.</Description>
+        <AddonId>AFF02897B9D452B3C</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>12</Number>
+        <RequiredLevel>56</RequiredLevel>
+        <AbilityId>-96768933</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 969 damage. Increases movement speed by 5%. Lasts 30s.</Description>
+        <AddonId>AFA3B6C5B45B5B22E</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>13</Number>
+        <RequiredLevel>59</RequiredLevel>
+        <AbilityId>-7725371</AbilityId>
+        <Description>Absorbs 25% of damage taken, up to 976 damage. Increases movement speed by 5%. Lasts 30s.</Description>
+        <AddonId>AFF8A1EC58C59D1F1</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>31</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Summon: Greater Satyr Destroyer</Name>
+      <Icon>druid-summon_satyr</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>31</RequiredLevel>
+        <AbilityId>550912595</AbilityId>
+        <Description>Summons a Greater Satyr Destroyer (max level 37). Best used for Melee Damage.</Description>
+        <AddonId>A20D64253C28AC0D6</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>37</RequiredLevel>
+        <AbilityId>59325222</AbilityId>
+        <Description>Summons a Greater Satyr Destroyer (max level 43). Best used for Melee Damage.</Description>
+        <AddonId>A03893B265788D073</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>43</RequiredLevel>
+        <AbilityId>631049269</AbilityId>
+        <Description>Summons a Greater Satyr Destroyer (max level 49). Best used for Melee Damage.</Description>
+        <AddonId>A259D0C358E2C2125</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>49</RequiredLevel>
+        <AbilityId>1234552701</AbilityId>
+        <Description>Summons a Greater Satyr Destroyer (max level 52). Best used for Melee Damage.</Description>
+        <AddonId>A4995C77D0B94D622</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>52</RequiredLevel>
+        <AbilityId>-8681977</AbilityId>
+        <Description>Summons a Greater Satyr Destroyer (max level 55). Best used for Melee Damage.</Description>
+        <AddonId>AFF7B86073C8F6A0A</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>55</RequiredLevel>
+        <AbilityId>-95181183</AbilityId>
+        <Description>Summons a Greater Satyr Destroyer (max level 58). Best used for Melee Damage.</Description>
+        <AddonId>AFA53A68199CE35CD</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>58</RequiredLevel>
+        <AbilityId>-35177041</AbilityId>
+        <Description>Summons a Greater Satyr Destroyer. Best used for Melee Damage.</Description>
+        <AddonId>AFDE73DAF26CE4B2C</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>0</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Fervent Strike</Name>
+      <Icon>shockwave2</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>0</RequiredLevel>
+        <AbilityId>722531426</AbilityId>
+        <Description>Deals 36 to 40 damage.</Description>
+        <AddonId>A2B10F4625A2E6EE3</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>4</RequiredLevel>
+        <AbilityId>1362583736</AbilityId>
+        <Description>Deals 43 to 47 damage.</Description>
+        <AddonId>A513760B872106446</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>8</RequiredLevel>
+        <AbilityId>79961093</AbilityId>
+        <Description>Deals 51 to 57 damage.</Description>
+        <AddonId>A04C41C0561FA2FB0</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>12</RequiredLevel>
+        <AbilityId>1775699652</AbilityId>
+        <Description>Deals 65 to 71 damage.</Description>
+        <AddonId>A69D706C49B493792</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>18</RequiredLevel>
+        <AbilityId>641702625</AbilityId>
+        <Description>Deals 75 to 83 damage.</Description>
+        <AddonId>A263F9AE178FE77F5</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>24</RequiredLevel>
+        <AbilityId>1320386979</AbilityId>
+        <Description>Deals 88 to 98 damage.</Description>
+        <AddonId>A4EB381A3925A4636</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>30</RequiredLevel>
+        <AbilityId>477973839</AbilityId>
+        <Description>Deals 103 to 113 damage.</Description>
+        <AddonId>A1C7D4D4F3F2F3ED9</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>36</RequiredLevel>
+        <AbilityId>1605224242</AbilityId>
+        <Description>Deals 123 to 137 damage.</Description>
+        <AddonId>A5FADC732A54AEACA</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>42</RequiredLevel>
+        <AbilityId>495763260</AbilityId>
+        <Description>Deals 152 to 168 damage.</Description>
+        <AddonId>A1D8CBF3C952DCBB6</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>48</RequiredLevel>
+        <AbilityId>1765977991</AbilityId>
+        <Description>Deals 197 to 217 damage.</Description>
+        <AddonId>A6942AF87526F9042</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>11</Number>
+        <RequiredLevel>51</RequiredLevel>
+        <AbilityId>-19115992</AbilityId>
+        <Description>Deals 213 to 235 damage.</Description>
+        <AddonId>AFEDC50286FE5F9CC</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>12</Number>
+        <RequiredLevel>54</RequiredLevel>
+        <AbilityId>-44145731</AbilityId>
+        <Description>Deals 385 to 425 damage.</Description>
+        <AddonId>AFD5E63BD79C0CDD2</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>13</Number>
+        <RequiredLevel>57</RequiredLevel>
+        <AbilityId>-1387894</AbilityId>
+        <Description>Deals 560 to 620 damage.</Description>
+        <AddonId>AFFEAD28A54EB9F8D</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>14</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>-36186801</AbilityId>
+        <Description>Deals 641 to 709 damage.</Description>
+        <AddonId>AFDD7D54F7669A411</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>24</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Summon: Greater Faerie Healer</Name>
+      <Icon>druid-summon_greater_faerie</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>24</RequiredLevel>
+        <AbilityId>1019014408</AbilityId>
+        <Description>Summons a Greater Faerie Healer (max level 30). Best used for Healing.</Description>
+        <AddonId>A3CBCED0857B7E7E9</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>30</RequiredLevel>
+        <AbilityId>423890618</AbilityId>
+        <Description>Summons a Greater Faerie Healer (max level 36). Best used for Healing.</Description>
+        <AddonId>A19440EBA952371D8</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>36</RequiredLevel>
+        <AbilityId>377776455</AbilityId>
+        <Description>Summons a Greater Faerie Healer (max level 42). Best used for Healing.</Description>
+        <AddonId>A1684694755CA3B21</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>42</RequiredLevel>
+        <AbilityId>1551413628</AbilityId>
+        <Description>Summons a Greater Faerie Healer (max level 48). Best used for Healing.</Description>
+        <AddonId>A5C78B17CA7BF1D93</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>48</RequiredLevel>
+        <AbilityId>192651507</AbilityId>
+        <Description>Summons a Greater Faerie Healer (max level 51). Best used for Healing.</Description>
+        <AddonId>A0B7BA0F3499E3A0F</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>51</RequiredLevel>
+        <AbilityId>-48223524</AbilityId>
+        <Description>Summons a Greater Faerie Healer (max level 54). Best used for Healing.</Description>
+        <AddonId>AFD202ADC654D49A0</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>54</RequiredLevel>
+        <AbilityId>-8307074</AbilityId>
+        <Description>Summons a Greater Faerie Healer (max level 57). Best used for Healing.</Description>
+        <AddonId>AFF813E7E69255FDB</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>57</RequiredLevel>
+        <AbilityId>-93589304</AbilityId>
+        <Description>Summons a Greater Faerie Healer (max level 59). Best used for Healing.</Description>
+        <AddonId>AFA6BF0C838A8A495</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>-88015632</AbilityId>
+        <Description>Summons a Greater Faerie Healer. Best used for Healing.</Description>
+        <AddonId>AFAC0FCF0A87750B2</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>0</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Dismiss Pet</Name>
+      <Icon>redirect1a</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>0</RequiredLevel>
+        <AbilityId>1086659173</AbilityId>
+        <Description>Dismiss your Pet.</Description>
+        <AddonId>A40C51A65DBA71310</AddonId>
+        <IsPassive>False</IsPassive>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>32</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Hidden Path</Name>
+      <Icon>druid-hidden_path</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>32</RequiredLevel>
+        <AbilityId>1104820851</AbilityId>
+        <Description>Removes all Curses, Diseases, and Poisons from the Cleric and the Cleric&apos;s pet.</Description>
+        <AddonId>A41DA3A7379075728</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>45.000004</Cooldown>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>26</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Essence Strike</Name>
+      <Icon>smite4a</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>26</RequiredLevel>
+        <AbilityId>1240865605</AbilityId>
+        <Description>Deals 183 to 202 Life damage. Refreshes the Cleric&apos;s active Eruption of Life on the enemy.</Description>
+        <AddonId>A49F61B45AAD84F4E</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.600000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>32</RequiredLevel>
+        <AbilityId>1650665701</AbilityId>
+        <Description>Deals 209 to 230 Life damage. Refreshes the Cleric&apos;s active Eruption of Life on the enemy.</Description>
+        <AddonId>A626328E571F6A161</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.600000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>38</RequiredLevel>
+        <AbilityId>830853267</AbilityId>
+        <Description>Deals 242 to 267 Life damage. Refreshes the Cleric&apos;s active Eruption of Life on the enemy.</Description>
+        <AddonId>A3185D093C1FD7F52</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.600000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>44</RequiredLevel>
+        <AbilityId>1914167589</AbilityId>
+        <Description>Deals 310 to 343 Life damage. Refreshes the Cleric&apos;s active Eruption of Life on the enemy.</Description>
+        <AddonId>A7217E1251E7D131C</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.600000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>50</RequiredLevel>
+        <AbilityId>1976162468</AbilityId>
+        <Description>Deals 348 to 385 Life damage. Refreshes the Cleric&apos;s active Eruption of Life on the enemy.</Description>
+        <AddonId>A75C9D8A4EBE99580</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.600000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>53</RequiredLevel>
+        <AbilityId>2135225338</AbilityId>
+        <Description>Deals 585 to 646 Life damage. Refreshes the Cleric&apos;s active Eruption of Life on the enemy.</Description>
+        <AddonId>A7F44F3FA67C4E24C</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.600000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>56</RequiredLevel>
+        <AbilityId>-10653633</AbilityId>
+        <Description>Deals 988 to 1093 Life damage. Refreshes the Cleric&apos;s active Eruption of Life on the enemy.</Description>
+        <AddonId>AFF5D703F736FF012</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.600000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>59</RequiredLevel>
+        <AbilityId>1818684401</AbilityId>
+        <Description>Deals 1119 to 1236 Life damage. Refreshes the Cleric&apos;s active Eruption of Life on the enemy.</Description>
+        <AddonId>A6C66EBF13655E2A9</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">1.600000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>16</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Fae Step</Name>
+      <Icon>shadow_shift_c</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>16</RequiredLevel>
+        <AbilityId>1298500173</AbilityId>
+        <Description>Teleports to the enemy.</Description>
+        <AddonId>A4D658A4D8EFB4B82</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>20.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>20</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Notion Theft</Name>
+      <Icon>paragon_feint</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>20</RequiredLevel>
+        <AbilityId>1322964650</AbilityId>
+        <Description>Interrupts.</Description>
+        <AddonId>A4EDAD6AA6FC94EE4</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>10.000000</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>16</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Grim Silence</Name>
+      <Icon>druid-grim_silence</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>16</RequiredLevel>
+        <AbilityId>1473690023</AbilityId>
+        <Description>Interrupts and Debilitates the enemy for 5s.</Description>
+        <AddonId>A57D6B9A76FDC3CA1</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>24</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Fae Dispersion</Name>
+      <Icon>energyburst5</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>24</RequiredLevel>
+        <AbilityId>1484879043</AbilityId>
+        <Description>Toggleable. Reduces the Greater Faerie Seer&apos;s damage done by 40%, but causes all of her damaging spells to apply to up to 5 enemies. Reduces the Greater Faerie Healer&apos;s healing done by 40%, but causes all of her heals to apply to up to 5 party or raid members.</Description>
+        <AddonId>A588174C32E5A52B4</AddonId>
+        <IsPassive>False</IsPassive>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>28</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Fury of the Fae</Name>
+      <Icon>riftstalker_rift_scavenger_01_b</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>28</RequiredLevel>
+        <AbilityId>1509914339</AbilityId>
+        <Description>Increases Attack Power and Spell Power by 28 of the Cleric and their pet.</Description>
+        <AddonId>A59FF76E3A9671B6B</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>34</RequiredLevel>
+        <AbilityId>883958647</AbilityId>
+        <Description>Increases Attack Power and Spell Power by 40 of the Cleric and their pet.</Description>
+        <AddonId>A34B02377867F9B1B</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>40</RequiredLevel>
+        <AbilityId>938632089</AbilityId>
+        <Description>Increases Attack Power and Spell Power by 53 of the Cleric and their pet.</Description>
+        <AddonId>A37F26399DC726CF7</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>46</RequiredLevel>
+        <AbilityId>1066126299</AbilityId>
+        <Description>Increases Attack Power and Spell Power by 62 of the Cleric and their pet.</Description>
+        <AddonId>A3F8BCBDB56CD55E5</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>53</RequiredLevel>
+        <AbilityId>-50404602</AbilityId>
+        <Description>Increases Attack Power and Spell Power by 130 of the Cleric and their pet.</Description>
+        <AddonId>AFCFEE306B3F9D39F</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>-51176294</AbilityId>
+        <Description>Increases Attack Power and Spell Power by 225 of the Cleric and their pet.</Description>
+        <AddonId>AFCF31C9ACE3E2087</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>0</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Summon: Faerie Healer</Name>
+      <Icon>druid-summon_faerie</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>0</RequiredLevel>
+        <AbilityId>1555396489</AbilityId>
+        <Description>Summons a Faerie Healer (max level 4). Best used for Healing.</Description>
+        <AddonId>A5CB577899A4B6841</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>4</RequiredLevel>
+        <AbilityId>1959400214</AbilityId>
+        <Description>Summons a Faerie Healer (max level 8). Best used for Healing.</Description>
+        <AddonId>A74CA131650523C6D</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>8</RequiredLevel>
+        <AbilityId>1978600705</AbilityId>
+        <Description>Summons a Faerie Healer (max level 12). Best used for Healing.</Description>
+        <AddonId>A75EF0D0166B8A0F7</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>12</RequiredLevel>
+        <AbilityId>268372252</AbilityId>
+        <Description>Summons a Faerie Healer (max level 18). Best used for Healing.</Description>
+        <AddonId>A0FFF091C1FDCE6A6</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>18</RequiredLevel>
+        <AbilityId>-29800424</AbilityId>
+        <Description>Summons a Faerie Healer (max level 24). Best used for Healing.</Description>
+        <AddonId>AFE39481889E5A51C</AddonId>
+        <IsPassive>False</IsPassive>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>8.000000</CastTime>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>41</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Resounding Blow</Name>
+      <Icon>holysweep4d</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>41</RequiredLevel>
+        <AbilityId>1640277529</AbilityId>
+        <Description>Deals 295 to 326 damage. Increases damage done by the Cleric&apos;s next damaging ability, within 10s, by 50%.</Description>
+        <AddonId>A61C4A619989EAE62</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>47</RequiredLevel>
+        <AbilityId>1482612975</AbilityId>
+        <Description>Deals 394 to 435 damage. Increases damage done by the Cleric&apos;s next damaging ability, within 10s, by 50%.</Description>
+        <AddonId>A585EE0EF6F57E415</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>51</RequiredLevel>
+        <AbilityId>203457424</AbilityId>
+        <Description>Deals 425 to 470 damage. Increases damage done by the Cleric&apos;s next damaging ability, within 10s, by 50%.</Description>
+        <AddonId>A0C208390BA0E9B17</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>54</RequiredLevel>
+        <AbilityId>889625112</AbilityId>
+        <Description>Deals 771 to 852 damage. Increases damage done by the Cleric&apos;s next damaging ability, within 10s, by 50%.</Description>
+        <AddonId>A35069A18A0D04254</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>57</RequiredLevel>
+        <AbilityId>1402056676</AbilityId>
+        <Description>Deals 1121 to 1240 damage. Increases damage done by the Cleric&apos;s next damaging ability, within 10s, by 50%.</Description>
+        <AddonId>A5391AFE459245861</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>352240361</AbilityId>
+        <Description>Deals 1284 to 1419 damage. Increases damage done by the Cleric&apos;s next damaging ability, within 10s, by 50%.</Description>
+        <AddonId>A14FEC2E9809B2B1A</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>11</MinimumPointsInSoul>
+      <TraitRequired>True</TraitRequired>
+      <Name>Slumber</Name>
+      <Icon>ressurect4bl</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>11</RequiredLevel>
+        <AbilityId>1662193998</AbilityId>
+        <Description>Puts the enemy to Sleep for 10s.</Description>
+        <AddonId>A6313114E97439373</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>30.000002</Cooldown>
+        <MaxRange>30.000000</MaxRange>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>10.000000</Duration>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>4</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Combined Effort</Name>
+      <Icon>intervene2</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>4</RequiredLevel>
+        <AbilityId>1673825006</AbilityId>
+        <Description>Deals 85 to 94 damage. Buffs the Cleric for 15s, causing their single target damaging abilities to increase damage taken from the Cleric and the Cleric&apos;s pet by 5% for 5s.</Description>
+        <AddonId>A63C48AEE7A1B7FF4</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>2</Number>
+        <RequiredLevel>8</RequiredLevel>
+        <AbilityId>942675915</AbilityId>
+        <Description>Deals 103 to 114 damage. Buffs the Cleric for 15s, causing their single target damaging abilities to increase damage taken from the Cleric and the Cleric&apos;s pet by 5% for 5s.</Description>
+        <AddonId>A383017CB82885564</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>3</Number>
+        <RequiredLevel>12</RequiredLevel>
+        <AbilityId>786098950</AbilityId>
+        <Description>Deals 129 to 142 damage. Buffs the Cleric for 15s, causing their single target damaging abilities to increase damage taken from the Cleric and the Cleric&apos;s pet by 5% for 5s.</Description>
+        <AddonId>A2EDAEB0686F59F89</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>4</Number>
+        <RequiredLevel>16</RequiredLevel>
+        <AbilityId>881578334</AbilityId>
+        <Description>Deals 139 to 154 damage. Buffs the Cleric for 15s, causing their single target damaging abilities to increase damage taken from the Cleric and the Cleric&apos;s pet by 5% for 5s.</Description>
+        <AddonId>A348BD15E9592181B</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>5</Number>
+        <RequiredLevel>22</RequiredLevel>
+        <AbilityId>459568233</AbilityId>
+        <Description>Deals 171 to 188 damage. Buffs the Cleric for 15s, causing their single target damaging abilities to increase damage taken from the Cleric and the Cleric&apos;s pet by 5% for 5s.</Description>
+        <AddonId>A1B6474697073DE31</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>6</Number>
+        <RequiredLevel>28</RequiredLevel>
+        <AbilityId>1181652973</AbilityId>
+        <Description>Deals 196 to 217 damage. Buffs the Cleric for 15s, causing their single target damaging abilities to increase damage taken from the Cleric and the Cleric&apos;s pet by 5% for 5s.</Description>
+        <AddonId>A466E97ED8A4A2746</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>7</Number>
+        <RequiredLevel>34</RequiredLevel>
+        <AbilityId>156052578</AbilityId>
+        <Description>Deals 235 to 260 damage. Buffs the Cleric for 15s, causing their single target damaging abilities to increase damage taken from the Cleric and the Cleric&apos;s pet by 5% for 5s.</Description>
+        <AddonId>A094D2C627189D916</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>8</Number>
+        <RequiredLevel>40</RequiredLevel>
+        <AbilityId>-10331398</AbilityId>
+        <Description>Deals 274 to 303 damage. Buffs the Cleric for 15s, causing their single target damaging abilities to increase damage taken from the Cleric and the Cleric&apos;s pet by 5% for 5s.</Description>
+        <AddonId>AFF625AFABDDCECE8</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>9</Number>
+        <RequiredLevel>46</RequiredLevel>
+        <AbilityId>-70476455</AbilityId>
+        <Description>Deals 394 to 435 damage. Buffs the Cleric for 15s, causing their single target damaging abilities to increase damage taken from the Cleric and the Cleric&apos;s pet by 5% for 5s.</Description>
+        <AddonId>AFBCC9D59A2EBE092</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>10</Number>
+        <RequiredLevel>51</RequiredLevel>
+        <AbilityId>-16819347</AbilityId>
+        <Description>Deals 425 to 470 damage. Buffs the Cleric for 15s, causing their single target damaging abilities to increase damage taken from the Cleric and the Cleric&apos;s pet by 5% for 5s.</Description>
+        <AddonId>AFEFF5B6D6FF045C7</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>11</Number>
+        <RequiredLevel>54</RequiredLevel>
+        <AbilityId>-63274265</AbilityId>
+        <Description>Deals 771 to 852 damage. Buffs the Cleric for 15s, causing their single target damaging abilities to increase damage taken from the Cleric and the Cleric&apos;s pet by 5% for 5s.</Description>
+        <AddonId>AFC3A82E75CDEB228</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>12</Number>
+        <RequiredLevel>57</RequiredLevel>
+        <AbilityId>-43903536</AbilityId>
+        <Description>Deals 1121 to 1240 damage. Buffs the Cleric for 15s, causing their single target damaging abilities to increase damage taken from the Cleric and the Cleric&apos;s pet by 5% for 5s.</Description>
+        <AddonId>AFD6215D05B39F66B</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+      <AbilityRank>
+        <Number>13</Number>
+        <RequiredLevel>60</RequiredLevel>
+        <AbilityId>-88208651</AbilityId>
+        <Description>Deals 1284 to 1419 damage. Buffs the Cleric for 15s, causing their single target damaging abilities to increase damage taken from the Cleric and the Cleric&apos;s pet by 5% for 5s.</Description>
+        <AddonId>AFABE0AF5A57623A2</AddonId>
+        <IsPassive>False</IsPassive>
+        <RequiresWeapon>Melee Weapon</RequiresWeapon>
+        <Cooldown>15.000001</Cooldown>
+        <MaxRange>3.000000</MaxRange>
+        <CostManaPercent>7.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <PowerStatCoefficient effect="0" action="0">2.000000</PowerStatCoefficient>
+        <WeaponDamageMultiplier effect="0" action="0">0.000000E+000</WeaponDamageMultiplier>
+      </AbilityRank>
+    </Ability>
+    <Ability>
+      <MinimumPointsInSoul>40</MinimumPointsInSoul>
+      <TraitRequired>False</TraitRequired>
+      <Name>Strength of the Fae</Name>
+      <Icon>druid-strength_of_the_fae</Icon>
+      <AbilityRank>
+        <Number>1</Number>
+        <RequiredLevel>40</RequiredLevel>
+        <AbilityId>2106973498</AbilityId>
+        <Description>Reduces damage taken by 50% on both the Cleric and the Cleric&apos;s pet for 10s.</Description>
+        <AddonId>A7D95DD3A78D912A7</AddonId>
+        <IsPassive>False</IsPassive>
+        <Cooldown>120.000008</Cooldown>
+        <CostManaPercent>4.500000</CostManaPercent>
+        <CastTime>Instant</CastTime>
+        <Duration>10.000000</Duration>
+      </AbilityRank>
+    </Ability>
+  </Abilities>
+</SoulTree>
+
